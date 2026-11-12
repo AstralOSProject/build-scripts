@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Síť Wi-Fi je odpojena.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi – jedna čárka.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi – plný signál.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi – tři čárky.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi – dvě čárky.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Vaše e-maily, kontakty, události v kalendáři a další obsah se synchronizují do tohoto telefonu. Můžete také začít stahovat aplikace, hudbu a hry z Google Play.\n\n      Účty lze později přidávat a odstraňovat v Nastavení > Účty.}TABLET{Vaše e-maily, kontakty, události v kalendáři a další obsah se synchronizují do tohoto tabletu. Můžete také začít stahovat aplikace, hudbu a hry z Google Play.\n\n      Účty lze později přidávat a odstraňovat v Nastavení > Účty.}other{Vaše e-maily, kontakty, události v kalendáři a další obsah se synchronizují do tohoto zařízení. Můžete také začít stahovat aplikace, hudbu a hry z Google Play.\n\n      Účty lze později přidávat a odstraňovat v Nastavení > Účty.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Restartujte telefon a zkuste to znovu nebo se za účelem nastavení připojte k síti Wi-Fi. Pokud problémy s aktivací mobilního datového připojení přetrvávají, kontaktujte svého operátora.}TABLET{Restartujte tablet a zkuste to znovu nebo se za účelem nastavení připojte k síti Wi-Fi. Pokud problémy s aktivací mobilního datového připojení přetrvávají, kontaktujte svého operátora.}other{Restartujte zařízení a zkuste to znovu nebo se za účelem nastavení připojte k síti Wi-Fi. Pokud problémy s aktivací mobilního datového připojení přetrvávají, kontaktujte svého operátora.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Připojit k Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">K dokončení několika posledních kroků nastavení potřebujete připojení.\n\n      Když je zapnutý režim Letadlo, síť Wi-Fi, Bluetooth i mobilní síť jsou odpojené.</string>
+    <string name="dialog_connect_to_wifi_button_label">Připojit k Wi-Fi</string>
+    <string name="network_connection_dialog_text">Pokud chcete stáhnout aplikace a provést další akce, připojte se k Wi-Fi nebo použijte mobilní data</string>
+    <string name="network_description_text_esim">Pokud chcete nastavit eSIM, připojte se k Wi-Fi</string>
+    <string name="network_no_connection_description">Aby šlo zkopírovat data, musíte být připojeni k Wi-Fi nebo mobilní síti.\n\n      Mobilní síť můžete aktivovat v Nastavení.</string>
+    <string name="network_see_all_wifi">Zobrazit všechny sítě Wi-Fi</string>
+    <string name="network_title">Připojení k Wi-Fi</string>
+    <string name="network_title_auto_connect">Připojování k Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Připojit k Wi-Fi později</string>
+    <string name="sim_ready_message_carrier_app">K dokončení aktivování čísla %1$s si budete muset stáhnout aplikaci operátora %2$s. Teď dokončíme nastavení telefonu.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">K dokončení aktivování čísla si budete muset stáhnout aplikaci operátora %1$s. Teď dokončíme nastavení telefonu.</string>
+    <string name="survey_email_address">E-mailová adresa</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefon není připojen k síti Wi-Fi. Tyto informace můžete zobrazíte tak, že ve webovém prohlížeči přejdete na adresu {0}.}TABLET{Tablet není připojen k síti Wi-Fi. Tyto informace můžete zobrazíte tak, že ve webovém prohlížeči přejdete na adresu {0}.}other{Zařízení není připojeno k síti Wi-Fi. Tyto informace můžete zobrazíte tak, že ve webovém prohlížeči přejdete na adresu {0}.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Pokud nastavení telefonu chcete urychlit, připojte se k Wi-Fi nebo k mobilní síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.\n      }TABLET{Pokud nastavení tabletu chcete urychlit, připojte se k síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.\n      }other{Pokud nastavení zařízení chcete urychlit, připojte se k síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Pokud nastavení telefonu chcete urychlit, připojte se k Wi-Fi nebo k mobilní síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout SIM kartu,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.\n      }TABLET{Pokud nastavení tabletu chcete urychlit, připojte se k síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout SIM kartu,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.\n      }other{Pokud nastavení zařízení chcete urychlit, připojte se k síti.\n\n      Bez připojení nelze provést následující akce:\n      přihlásit se k účtu Google,\n      obnovit aplikace a data,\n      stáhnout SIM kartu,\n      stáhnout aktualizace softwaru,\n      automaticky nastavit datum a čas.}}</string>
+    <string name="wifi_scanning">Vyhledávání sítí Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefon bude při nastavování používat mobilní data. Za toto využití dat vám mohou být účtovány poplatky. Pokud případným poplatkům chcete předejít, připojte se k síti Wi-Fi.}TABLET{Tablet bude při nastavování používat mobilní data. Za toto využití dat vám mohou být účtovány poplatky. Pokud případným poplatkům chcete předejít, připojte se k síti Wi-Fi.}other{Zařízení bude při nastavování používat mobilní data. Za toto využití dat vám mohou být účtovány poplatky. Pokud případným poplatkům chcete předejít, připojte se k síti Wi-Fi.}}</string>
+    <string name="wifi_title">Připojit k Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi se prozatím nebude připojovat automaticky</string>
+</resources>

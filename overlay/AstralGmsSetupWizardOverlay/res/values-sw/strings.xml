@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi imeondolewa.</string>
+    <string name="accessibility_wifi_one_bar">Kipima mtandao kimoja cha Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi ni thabiti.</string>
+    <string name="accessibility_wifi_three_bars">Vipima mtandao vitatu vya Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Vipima mtandao viwili vya Wi-Fi.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Barua pepe, anwani, matukio ya kalenda yako na mengine yatasawazishwa kwenye simu hii. Pia, uko tayari kuanza kupakua programu, muziki na michezo kutoka Google Play.\n\n      Unaweza kuongeza na kuondoa akaunti baadaye kwa kwenda kwenye Mipangilio > Akaunti.}TABLET{Barua pepe, anwani, matukio ya kalenda yako na mengine yatasawazishwa kwenye kompyuta hii kibao. Pia, uko tayari kuanza kupakua programu, muziki na michezo kutoka Google Play.\n\n      Unaweza kuongeza na kuondoa akaunti baadaye kwa kwenda kwenye Mipangilio > Akaunti.}other{Barua pepe, anwani, matukio ya kalenda yako na mengine yatasawazishwa kwenye kifaa hiki. Pia, uko tayari kuanza kupakua programu, muziki na michezo kutoka Google Play.\n\n      Unaweza kuongeza na kuondoa akaunti baadaye kwa kwenda kwenye Mipangilio > Akaunti.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Zima na uwashe simu yako kisha ujaribu tena, au uunganishe kwenye Wi-Fi ili uweke mipangilio. Wasiliana na mtoa huduma wako ikiwa utaendelea kupata tatizo la kuanzisha data ya mtandao wa simu.}TABLET{Zima na uwashe kompyuta yako kibao kisha ujaribu tena, au uunganishe kwenye Wi-Fi ili uweke mipangilio. Wasiliana na mtoa huduma wako ikiwa utaendelea kupata tatizo la kuanzisha data ya mtandao wa simu.}other{Zima na uwashe kifaa chako kisha ujaribu tena, au uunganishe kwenye Wi-Fi ili uweke mipangilio. Wasiliana na mtoa huduma wako ikiwa utaendelea kupata tatizo la kuanzisha data ya mtandao wa simu.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Unganisha kwenye Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Unahitaji muunganisho ili ukamilishe hatua chache zilizobaki.\n\n      Wakati umewasha hali ya ndegeni, Wi-Fi, mitandao ya simu na Bluetooth zitazimwa.</string>
+    <string name="dialog_connect_to_wifi_button_label">Unganisha kwenye Wi-Fi</string>
+    <string name="network_connection_dialog_text">Ili upate programu na zaidi, unganisha kwenye mtandao wa Wi-Fi au utumie data ya mtandao wa simu</string>
+    <string name="network_description_text_esim">Unganisha kwenye Wi-Fi ili uweke mipangilio ya eSIM yako</string>
+    <string name="network_no_connection_description">Unahitaji kuunganisha kwenye Wi-Fi au mtandao wa simu ili kunakili data yako.\n\n      Unaweza kuwezesha mtandao wako wa simu katika Mipangilio.</string>
+    <string name="network_see_all_wifi">Angalia mitandao yote ya Wi-Fi</string>
+    <string name="network_title">Unganisha kwenye Wi-Fi</string>
+    <string name="network_title_auto_connect">Inaunganisha kwenye Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Unganisha kwenye Wi-Fi baadaye</string>
+    <string name="sim_ready_message_carrier_app">Ili uanze kutumia %1$s, utahitaji kupakua programu ya %2$s. Kwa sasa, tumalizie kuweka mipangilio ya simu yako.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Ili uanze kutumia nambari yako, utahitaji kupakua programu ya %1$s. Kwa sasa, tumalizie kuweka mipangilio ya simu yako.</string>
+    <string name="survey_email_address">Anwani ya barua pepe</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Simu yako haijaunganishwa kwenye mtandao wa Wi-Fi. Ili uangalie maelezo haya sasa, tembelea {0} ukitumia kivinjari.}TABLET{Kompyuta yako kibao haijaunganishwa kwenye mtandao wa Wi-Fi. Ili uangalie maelezo haya sasa, tembelea {0} ukitumia kivinjari.}other{Kifaa chako hakijaunganishwa kwenye mtandao wa Wi-Fi. Ili uangalie maelezo haya sasa, tembelea {0} ukitumia kivinjari.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Kuunganisha simu yako kwenye Wi-Fi au mtandao wa simu hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki\n      }TABLET{Kuunganisha kishikwambi chako kwenye mtandao hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki\n      }other{Kuunganisha kifaa chako kwenye mtandao hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Kuunganisha simu yako kwenye Wi-Fi au mtandao wa simu hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupakua SIM\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki\n      }TABLET{Kuunganisha kishikwambi chako kwenye mtandao hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupakua SIM\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki\n      }other{Kuunganisha kifaa chako kwenye mtandao hukuwezesha kuweka mipangilio yake haraka.\n\n      Bila muunganisho, hutaweza:\n      Kuingia katika Akaunti yako ya Google\n      Kurejesha programu na data\n      Kupakua SIM\n      Kupata masasisho ya programu\n      Kuweka saa na tarehe kiotomatiki}}</string>
+    <string name="wifi_scanning">Inatafuta mitandao ya Wi-Fi...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Simu yako itatumia mtandao wa simu wakati wa kuweka mipangilio na huenda ukalipishwa kwa matumizi haya ya data. Unganisha kwenye Wi-Fi ili uepuke uwezekano wa kulipishwa.}TABLET{Kompyuta kibao yako itatumia mtandao wa simu wakati wa kuweka mipangilio na huenda ukalipishwa kwa matumizi haya ya data. Unganisha kwenye Wi-Fi ili uepuke uwezekano wa kulipishwa.}other{Kifaa chako kitatumia mtandao wa simu wakati wa kuweka mipangilio na huenda ukalipishwa kwa matumizi haya ya data. Unganisha kwenye Wi-Fi ili uepuke uwezekano wa kulipishwa.}}</string>
+    <string name="wifi_title">Unganisha kwenye Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi haitaunganishwa kiotomatiki kwa sasa</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi rozłączone.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: jeden pasek.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: pełna moc sygnału.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: trzy paski.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: dwa paski.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Twoje e-maile, kontakty, wydarzenia z kalendarza i inne dane zostaną zsynchronizowane na tym telefonie. Możesz też zacząć pobierać aplikacje, muzykę i gry z Google Play.\n\n      Konta możesz dodać lub usunąć później na stronie Ustawienia > Konta.}TABLET{Twoje e-maile, kontakty, wydarzenia z kalendarza i inne dane zostaną zsynchronizowane na tym tablecie. Możesz też zacząć pobierać aplikacje, muzykę i gry z Google Play.\n\n      Konta możesz dodać lub usunąć później na stronie Ustawienia > Konta.}other{Twoje e-maile, kontakty, wydarzenia z kalendarza i inne dane zostaną zsynchronizowane na tym urządzeniu. Możesz też zacząć pobierać aplikacje, muzykę i gry z Google Play.\n\n      Konta możesz dodać lub usunąć później na stronie Ustawienia > Konta.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Uruchom telefon ponownie i spróbuj jeszcze raz lub połącz się z Wi-Fi, aby przeprowadzić konfigurację. Jeśli nadal masz problem z aktywacją mobilnej transmisji danych, skontaktuj się z operatorem.}TABLET{Uruchom tablet ponownie i spróbuj jeszcze raz lub połącz się z Wi-Fi, aby przeprowadzić konfigurację. Jeśli nadal masz problem z aktywacją mobilnej transmisji danych, skontaktuj się z operatorem.}other{Uruchom urządzenie ponownie i spróbuj jeszcze raz lub połącz się z Wi-Fi, aby przeprowadzić konfigurację. Jeśli nadal masz problem z aktywacją mobilnej transmisji danych, skontaktuj się z operatorem.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Połącz z Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Musisz mieć połączenie, by ukończyć konfigurację.\n\n      Gdy tryb samolotowy jest włączony, Wi-Fi, sieci komórkowe i Bluetooth są wyłączone.</string>
+    <string name="dialog_connect_to_wifi_button_label">Połącz z Wi-Fi</string>
+    <string name="network_connection_dialog_text">Aby pobraļ aplikacje i inne, połącz się z siecią Wi-Fi lub użyj mobilnej transmisji danych.</string>
+    <string name="network_description_text_esim">Aby skonfigurować kartę eSIM, połącz się z Wi-Fi</string>
+    <string name="network_no_connection_description">Do skopiowania danych wymagane jest połączenie z Wi-Fi lub siecią komórkową.\n\n      Sieć komórkową można aktywować w Ustawieniach.</string>
+    <string name="network_see_all_wifi">Pokaż wszystkie sieci Wi-Fi</string>
+    <string name="network_title">Połącz z Wi-Fi</string>
+    <string name="network_title_auto_connect">Łączę się z Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Połącz z Wi-Fi później</string>
+    <string name="sim_ready_message_carrier_app">Aby dokończyć aktywację numeru %1$s, musisz pobrać aplikację operatora %2$s. Na razie dokończ konfigurowanie telefonu.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Aby dokończyć aktywację numeru, musisz pobrać aplikację operatora %1$s. Na razie dokończ konfigurowanie telefonu.</string>
+    <string name="survey_email_address">Adres e-mail</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefon nie jest połączony z Wi-Fi. Aby wyświetlić te informacje teraz, otwórz w przeglądarce stronę {0}.}TABLET{Tablet nie jest połączony z Wi-Fi. Aby wyświetlić te informacje teraz, otwórz w przeglądarce stronę {0}}other{Urządzenie nie jest połączone z Wi-Fi. Aby wyświetlić te informacje teraz, otwórz w przeglądarce stronę {0}.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Połącz się z siecią Wi-Fi lub komórkową, aby szybko skonfigurować telefon.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.\n      }TABLET{Połącz się z siecią, aby szybko skonfigurować tablet.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.\n      }other{Połącz się z siecią, aby szybko skonfigurować urządzenie.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Połącz się z siecią Wi-Fi lub komórkową, aby szybko skonfigurować telefon.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać danych SIM,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.\n      }TABLET{Połącz się z siecią, aby szybko skonfigurować tablet.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać danych SIM,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.\n      }other{Połącz się z siecią, aby szybko skonfigurować urządzenie.\n\n      Bez połączenia nie można:\n      zalogować się na swoje konto Google,\n      przywrócić aplikacji i danych,\n      pobrać danych SIM,\n      pobrać aktualizacji oprogramowania,\n      automatycznie skonfigurować daty i godziny.}}</string>
+    <string name="wifi_scanning">Wyszukuję sieci Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Podczas konfiguracji telefon będzie korzystać z sieci komórkowej. Użycie danych może być płatne. Aby uniknąć ewentualnych opłat, połącz się przez Wi-Fi.}TABLET{Podczas konfiguracji tablet będzie korzystać z sieci komórkowej. Użycie danych może być płatne. Aby uniknąć ewentualnych opłat, połącz się przez Wi-Fi.}other{Podczas konfiguracji urządzenie będzie korzystać z sieci komórkowej. Użycie danych może być płatne. Aby uniknąć ewentualnych opłat, połącz się przez Wi-Fi.}}</string>
+    <string name="wifi_title">Połącz z Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nie będzie na razie włączać się automatycznie</string>
+</resources>

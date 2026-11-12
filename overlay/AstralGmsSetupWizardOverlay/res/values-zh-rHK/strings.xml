@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi 連線已中斷。</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 訊號一格。</string>
+    <string name="accessibility_wifi_signal_full">WiFi 訊號滿格。</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 訊號三格。</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 訊號兩格。</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{你的電郵、聯絡人和日曆活動等內容將會同步至此手機。你亦可以開始在 Google Play 下載應用程式、音樂和遊戲。\n\n      你之後可以前往 [設定] > [帳戶] 新增及移除帳戶。}TABLET{你的電郵、聯絡人和日曆活動等內容將會同步至此平板電腦。你亦可以開始在 Google Play 下載應用程式、音樂和遊戲。\n\n      你之後可以前往 [設定] > [帳戶] 新增及移除帳戶。}other{你的電郵、聯絡人和日曆活動等內容將會同步至此裝置。你亦可以開始在 Google Play 下載應用程式、音樂和遊戲。\n\n      你之後可以前往 [設定] > [帳戶] 新增及移除帳戶。}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{請重新啟動你的手機並再試一次，或連線至 Wi-Fi 來設定。如果你在啟用流動數據時仍然發生問題，請聯絡流動網絡供應商。}TABLET{請重新啟動你的平板電腦並再試一次，或連線至 Wi-Fi 來設定。如果你在啟用流動數據時仍然發生問題，請聯絡流動網絡供應商。}other{請重新啟動你的裝置並再試一次，或連線至 Wi-Fi 來設定。如果你在啟用流動數據時仍然發生問題，請聯絡流動網絡供應商。}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">連線至 Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">你必須連接互聯網，才能完成最後幾個設定步驟。\n\n      開啟飛行模式後，Wi-Fi、流動網絡和藍牙都會解除連線。</string>
+    <string name="dialog_connect_to_wifi_button_label">連線至 Wi-Fi</string>
+    <string name="network_connection_dialog_text">如要下載應用程式及執行其他操作，請連接 Wi-Fi 網絡或使用流動數據</string>
+    <string name="network_description_text_esim">你需要連接 Wi-Fi，才能設定 eSIM 卡</string>
+    <string name="network_no_connection_description">你需要連線至 Wi-Fi 或流動網絡才能複製資料。\n\n      你可前往「設定」啟用流動網絡。</string>
+    <string name="network_see_all_wifi">查看所有 Wi-Fi 網絡</string>
+    <string name="network_title">連線至 Wi-Fi</string>
+    <string name="network_title_auto_connect">正在連線至 Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">稍後連線至 Wi-Fi</string>
+    <string name="sim_ready_message_carrier_app">如要完成啟用 %1$s 的流程，你將需要下載%2$s應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">如要完成啟用號碼的流程，你將需要下載%1$s應用程式。現在，我們先完成你的手機設定。</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{你的手機尚未連線至 Wi-Fi 網絡。如要立即查看這項資訊，請使用網絡瀏覽器前往 {0}。}TABLET{你的平板電腦尚未連線至 Wi-Fi 網絡。如要立即查看這項資訊，請使用網絡瀏覽器前往 {0}。}other{你的裝置尚未連線至 Wi-Fi 網絡。如要立即查看這項資訊，請使用網絡瀏覽器前往 {0}。}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{連線至 Wi-Fi 或流動網絡有助你快速設定手機。\n\n      如果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載軟件更新\n      自動設定時間和日期\n      }TABLET{連線至網絡有助你快速設定平板電腦。\n\n      果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載軟件更新\n      自動設定時間和日期\n      }other{連線至網絡有助你快速設定裝置。\n\n      如果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載軟件更新\n      自動設定時間和日期}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{連線至 Wi-Fi 或流動網絡有助你快速設定手機。\n\n      如果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載 SIM 卡\n      下載軟件更新\n      自動設定時間和日期\n      }TABLET{連線至網絡有助你快速設定平板電腦。\n\n      如果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載 SIM 卡\n      下載軟件更新\n      自動設定時間和日期\n      }other{連線至網絡有助你快速設定裝置。\n\n      如果沒有連線至網絡，你將無法：\n      登入 Google 帳戶\n      還原應用程式與資料\n      下載 SIM 卡\n      下載軟件更新\n      自動設定時間和日期}}</string>
+    <string name="wifi_scanning">正在搜尋 Wi-Fi 網絡…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{你的手機在設定期間將會使用流動網絡，你可能需要為相關數據用量支付費用。如要避免可能產生的費用，請連線至 Wi-Fi。}TABLET{你的平板電腦在設定期間將會使用流動網絡，你可能需要為相關數據用量支付費用。如要避免可能產生的費用，請連線至 Wi-Fi。}other{你的裝置在設定期間將會使用流動網絡，你可能需要為相關數據用量支付費用。如要避免可能產生的費用，請連線至 Wi-Fi。}}</string>
+    <string name="wifi_title">連線至 Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">目前系統不會自動連線至 Wi-Fi</string>
+</resources>

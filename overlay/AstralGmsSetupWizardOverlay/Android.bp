@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "AstralGmsSetupWizardOverlay",
+    product_specific: true,
+}

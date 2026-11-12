@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>
+    <string name="accessibility_wifi_signal_full">Vahva Wi-Fi-signaali</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi-signaali – kolme palkkia</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi-signaali – kaksi palkkia</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Puhelimelle synkronoidaan sähköpostit, yhteystiedot, kalenteritapahtumat ja paljon muuta. Tämän lisäksi voit nyt ladata sovelluksia, musiikkia ja pelejä Google Playsta.\n\n      Voit lisätä ja poistaa tilejä myöhemmin valitsemalla Asetukset > Tilit.}TABLET{Tabletille synkronoidaan sähköpostit, yhteystiedot, kalenteritapahtumat ja paljon muuta. Tämän lisäksi voit nyt ladata sovelluksia, musiikkia ja pelejä Google Playsta.\n\n      Voit lisätä ja poistaa tilejä myöhemmin valitsemalla Asetukset > Tilit.}other{Laitteelle synkronoidaan sähköpostit, yhteystiedot, kalenteritapahtumat ja paljon muuta. Tämän lisäksi voit nyt ladata sovelluksia, musiikkia ja pelejä Google Playsta.\n\n      Voit lisätä ja poistaa tilejä myöhemmin valitsemalla Asetukset > Tilit.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Käynnistä puhelin uudelleen ja yritä uudestaan tai muodosta Wi-Fi-yhteys käyttöönottoa varten. Ota yhteys operaattoriin, jos mobiilidatan aktivointi ei vieläkään onnistu.}TABLET{Käynnistä tabletti uudelleen ja yritä uudestaan tai muodosta Wi-Fi-yhteys käyttöönottoa varten. Ota yhteys operaattoriin, jos mobiilidatan aktivointi ei vieläkään onnistu.}other{Käynnistä laite uudelleen ja yritä uudestaan tai muodosta Wi-Fi-yhteys käyttöönottoa varten. Ota yhteys operaattoriin, jos mobiilidatan aktivointi ei vieläkään onnistu.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="deferred_welcome_airplane_mode_message">Tarvitset verkkoyhteyden, jotta voit suorittaa viimeiset asennusvaiheet loppuun.\n\n      Kun lentokonetila on päällä, Wi-Fi-, mobiili- ja Bluetooth-yhteydet on katkaistu.</string>
+    <string name="dialog_connect_to_wifi_button_label">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="network_connection_dialog_text">Muodosta Wi-Fi- tai mobiilidatayhteys, jotta voit ladata sovelluksia ja muita</string>
+    <string name="network_description_text_esim">Yhdistä Wi-Fi-verkkoon, jotta voit ottaa eSIMin käyttöön</string>
+    <string name="network_no_connection_description">Sinun on oltava yhteydessä Wi-Fi- tai mobiiliverkkoon, jotta voit kopioida datasi.\n\n      Voit aktivoida mobiiliverkkosi asetuksissa.</string>
+    <string name="network_see_all_wifi">Näytä kaikki Wi-Fi-verkot</string>
+    <string name="network_title">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="network_title_auto_connect">Yhdistetään Wi-Fi-verkkoon…</string>
+    <string name="network_use_cellular_carrier">Yhdistä Wi-Fi-verkkoon myöhemmin</string>
+    <string name="sim_ready_message_carrier_app">Lataa %2$s -sovellus, jotta %1$s voidaan aktivoida loppuun. Viimeistellään sillä välin puhelimen määritys.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Lataa %1$s -sovellus, jotta numero voidaan aktivoida loppuun. Viimeistellään sillä välin puhelimen määritys.</string>
+    <string name="survey_email_address">Sähköpostiosoite</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Puhelimesi ei ole yhteydessä Wi-Fi-verkkoon. Jos haluat lukea nämä tiedot nyt, siirry selaimella osoitteeseen {0}.}TABLET{Tablettisi ei ole yhteydessä Wi-Fi-verkkoon. Jos haluat lukea nämä tiedot nyt, siirry selaimella osoitteeseen {0}.}other{Laitteesi ei ole yhteydessä Wi-Fi-verkkoon. Jos haluat lukea nämä tiedot nyt, siirry selaimella osoitteeseen {0}.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Wi-Fi- tai mobiiliverkkoon yhdistäminen auttaa sinua ottamaan puhelimen nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti\n      }TABLET{Verkkoon yhdistäminen auttaa sinua ottamaan tabletin nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti\n      }other{Verkkoon yhdistäminen auttaa sinua ottamaan laitteen nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Wi-Fi- tai mobiiliverkkoon yhdistäminen auttaa sinua ottamaan puhelimen nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      ladata SIM-korttia\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti.\n      }TABLET{Verkkoon yhdistäminen auttaa sinua ottamaan tabletin nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      ladata SIM-korttia\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti.\n      }other{Verkkoon yhdistäminen auttaa sinua ottamaan laitteen nopeasti käyttöön.\n\n      Ilman yhteyttä et voi\n      kirjautua Google-tilillesi\n      palauttaa sovelluksia tai dataa\n      ladata SIM-korttia\n      saada ohjelmistopäivityksiä\n      asettaa päivämäärää ja aikaa automaattisesti.}}</string>
+    <string name="wifi_scanning">Haetaan Wi-Fi-verkkoja…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Puhelimesi käyttää mobiiliverkkoa käyttöönoton aikana, joten sinua saatetaan laskuttaa datan käytöstä. Vältä maksut muodostamalla Wi-Fi-yhteys.}TABLET{Tablettisi käyttää mobiiliverkkoa käyttöönoton aikana, joten sinua saatetaan laskuttaa datan käytöstä. Vältä maksut muodostamalla Wi-Fi-yhteys.}other{Laitteesi käyttää mobiiliverkkoa käyttöönoton aikana, joten sinua saatetaan laskuttaa datan käytöstä. Vältä maksut muodostamalla Wi-Fi-yhteys.}}</string>
+    <string name="wifi_title">Yhdistä Wi-Fi-verkkoon</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi ei toistaiseksi yhdistä automaattisesti</string>
+</resources>

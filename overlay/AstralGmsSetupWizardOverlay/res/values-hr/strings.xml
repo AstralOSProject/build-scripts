@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi je isključen.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi signal ima jedan stupac.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signal je pun.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi signal ima tri stupca.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi signal ima dva stupca.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Vaša e-pošta, kontakti, događaji kalendara i drugi podaci sinkronizirat će se s ovim telefonom. Spremni ste i za preuzimanje aplikacija, glazbe i igara s Google Playa.\n\n      Račune kasnije možete dodati ili ukloniti tako da otvorite Postavke > Računi.}TABLET{Vaša e-pošta, kontakti, događaji kalendara i drugi podaci sinkronizirat će se s ovim tabletom. Spremni ste i za preuzimanje aplikacija, glazbe i igara s Google Playa.\n\n      Račune kasnije možete dodati ili ukloniti tako da otvorite Postavke > Računi.}other{Vaša e-pošta, kontakti, događaji kalendara i drugi podaci sinkronizirat će se s ovim uređajem. Spremni ste i za preuzimanje aplikacija, glazbe i igara s Google Playa.\n\n      Račune kasnije možete dodati ili ukloniti tako da otvorite Postavke > Računi.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Ponovo pokrenite telefon i pokušajte opet ili se povežite s Wi-Fi mrežom radi postavljanja. Ako i dalje imate problema s aktivacijom mobilnih podataka, obratite se mobilnom operateru.}TABLET{Ponovo pokrenite tablet i pokušajte opet ili se povežite s Wi-Fi mrežom radi postavljanja. Ako i dalje imate problema s aktivacijom mobilnih podataka, obratite se mobilnom operateru.}other{Ponovo pokrenite uređaj i pokušajte opet ili se povežite s Wi-Fi mrežom radi postavljanja. Ako i dalje imate problema s aktivacijom mobilnih podataka, obratite se mobilnom operateru.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Povezivanje s Wi-Fi mrežom</string>
+    <string name="deferred_welcome_airplane_mode_message">Da biste dovršili zadnjih nekoliko koraka za postavljanje, potrebna vam je internetska veza.\n\n      Kada je uključen način rada u zrakoplovu, isključeni su Wi-Fi, mobilne mreže i Bluetooth.</string>
+    <string name="dialog_connect_to_wifi_button_label">Povezivanje s Wi-Fi mrežom</string>
+    <string name="network_connection_dialog_text">Da biste nabavili aplikacije i druge značajke, povežite se s Wi-Fi mrežom ili koristite mobilne podatke</string>
+    <string name="network_description_text_esim">Da biste postavili eSIM karticu, povežite se s Wi-Fijem.</string>
+    <string name="network_no_connection_description">Da biste kopirali podatke, morate se povezati s Wi-Fijem ili mobilnom mrežom.\n\n      Mobilnu mrežu možete aktivirati u postavkama.</string>
+    <string name="network_see_all_wifi">Prikaži sve Wi-Fi mreže</string>
+    <string name="network_title">Povezivanje s Wi-Fi mrežom</string>
+    <string name="network_title_auto_connect">Povezivanje s Wi-Fijem…</string>
+    <string name="network_use_cellular_carrier">Poveži se s Wi-Fi mrežom kasnije</string>
+    <string name="sim_ready_message_carrier_app">Za dovršetak aktivacije broja %1$s trebate preuzeti aplikaciju mrežnog operatera %2$s. Zasad dovršimo postavljanje telefona.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Za dovršetak aktivacije broja trebate preuzeti aplikaciju mrežnog operatera %1$s. Zasad dovršimo postavljanje telefona.</string>
+    <string name="survey_email_address">E-adresa</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefon nije povezan s Wi-Fi mrežom. Da biste te informacije vidjeli odmah, otvorite {0} u web-pregledniku.}TABLET{Tablet nije povezan s Wi-Fi mrežom. Da biste te informacije vidjeli odmah, otvorite {0} u web-pregledniku.}other{Uređaj nije povezan s Wi-Fi mrežom. Da biste te informacije vidjeli odmah, otvorite {0} u web-pregledniku.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Povezivanje s Wi-Fi ili mobilnom mrežom omogućuje vam brzo postavljanje telefona.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum.\n      }TABLET{Povezivanje s mrežom omogućuje vam brzo postavljanje tableta.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum\n      }other{Povezivanje s mrežom omogućuje vam brzo postavljanje uređaja.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Povezivanje s Wi-Fi ili mobilnom mrežom omogućuje vam brzo postavljanje telefona.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti SIM\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum.\n      }TABLET{Povezivanje s mrežom omogućuje vam brzo postavljanje tableta.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti SIM\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum.\n      }other{Povezivanje s mrežom omogućuje vam brzo postavljanje uređaja.\n\n      Ako se ne povežete, nećete moći:\n      prijaviti se na Google račun\n      vratiti aplikacije i podatke\n      preuzeti SIM\n      preuzeti ažuriranja softvera\n      automatski postaviti vrijeme i datum}}</string>
+    <string name="wifi_scanning">Traženje Wi-Fi mreža…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Tijekom postavljanja telefon će upotrebljavati mobilnu mrežu i može vam se naplatiti potrošnja podatkovnog prometa. Da biste izbjegli moguće troškove, povežite se s Wi-Fijem.}TABLET{Tijekom postavljanja tablet će upotrebljavati mobilnu mrežu i može vam se naplatiti potrošnja podatkovnog prometa. Da biste izbjegli moguće troškove, povežite se s Wi-Fijem.}other{Tijekom postavljanja uređaj će upotrebljavati mobilnu mrežu i može vam se naplatiti potrošnja podatkovnog prometa. Da biste izbjegli moguće troškove, povežite se s Wi-Fijem.}}</string>
+    <string name="wifi_title">Povezivanje s Wi-Fi mrežom</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi se zasad neće automatski povezivati</string>
+</resources>

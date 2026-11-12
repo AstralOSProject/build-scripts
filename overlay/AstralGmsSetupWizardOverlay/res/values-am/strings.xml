@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">የWifi ግንኙነት ተቋርጧል።</string>
+    <string name="accessibility_wifi_one_bar">አንድ የWiFi አሞሌ።</string>
+    <string name="accessibility_wifi_signal_full">የWiFi ሲግናል ሙሉ ነው።</string>
+    <string name="accessibility_wifi_three_bars">ሦስት የWiFi አሞሌዎች።</string>
+    <string name="accessibility_wifi_two_bars">ሁለት የWiFi አሞሌዎች።</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{የእርስዎ ኢሜይል፣ እውቂያዎች፣ የቀን መቁጠሪያ ክስተቶች እና ተጨማሪ ነገሮች ከዚህ ስልክ ጋር ይሰምራሉ። እንዲሁም መተግበሪያዎችን፣ ሙዚቃን እና ጨዋታዎችን ከGoogle Play ለማውረድ ዝግጁ ነዎት።\n\n      ወደ ቅንብሮች > መለያዎች በመሄድ መለያዎችን ማከል እና ማስወገድ ይችላሉ።}TABLET{የእርስዎ ኢሜይል፣ እውቂያዎች፣ የቀን መቁጠሪያ ክስተቶች እና ተጨማሪ ነገሮች ከዚህ ጡባዊ ጋር ይሰምራሉ። እንዲሁም መተግበሪያዎችን፣ ሙዚቃን እና ጨዋታዎችን ከGoogle Play ለማውረድ ዝግጁ ነዎት።\n\n      ወደ ቅንብሮች > መለያዎች በመሄድ መለያዎችን ማከል እና ማስወገድ ይችላሉ።}other{የእርስዎ ኢሜይል፣ እውቂያዎች፣ የቀን መቁጠሪያ ክስተቶች እና ተጨማሪ ነገሮች ከዚህ መሣሪያ ጋር ይሰምራሉ። እንዲሁም መተግበሪያዎችን፣ ሙዚቃን እና ጨዋታዎችን ከGoogle Play ለማውረድ ዝግጁ ነዎት።\n\n      ወደ ቅንብሮች > መለያዎች በመሄድ መለያዎችን ማከል እና ማስወገድ ይችላሉ።}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{ስልክዎን እንደገና ያስጀምሩ እና እንደገና ይሞክሩ፣ ወይም ደግሞ ለማዋቀር ከWi-Fi ጋር ይገናኙ። አሁንም የተንቀሳቃሽ ስልክ ውሂብን ማግበር ላይ ችግር ካጋጠመዎት የአገልግሎት አቅራቢዎን ያነጋግሩ።}TABLET{ጡባዊዎን እንደገና ያስጀምሩ እና እንደገና ይሞክሩ፣ ወይም ደግሞ ለማዋቀር ከWi-Fi ጋር ይገናኙ። አሁንም የተንቀሳቃሽ ስልክ ውሂብን ማግበር ላይ ችግር ካጋጠመዎት የአገልግሎት አቅራቢዎን ያነጋግሩ።}other{መሣሪያዎን እንደገና ያስጀምሩ እና እንደገና ይሞክሩ፣ ወይም ደግሞ ለማዋቀር ከWi-Fi ጋር ይገናኙ። አሁንም የተንቀሳቃሽ ስልክ ውሂብን ማግበር ላይ ችግር ካጋጠመዎት የአገልግሎት አቅራቢዎን ያነጋግሩ።}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="deferred_welcome_airplane_mode_message">የመጨረሻዎቹን ጥቂት የማዋቀሪያ ደረጃዎችን ለመጨረስ ግንኙነት ያስፈልገዎታል።\n\n      የአውሮፕላን ሁነታ ሲበራ የWi-Fi፣ የተንቀሳቃሽ ስልክ አውታረ መረቦች እና የብሉቱዝ ግንኙነቶች ይቋረጣሉ።</string>
+    <string name="dialog_connect_to_wifi_button_label">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="network_connection_dialog_text">መተግበሪያዎችን እና ሌሎችን ለማግኘት ከWi-Fi አውታረ መረብ ጋር ይገናኙ ወይም የሞባይል ውሂብ ይጠቀሙ</string>
+    <string name="network_description_text_esim">የእርስዎን ኢሲም ለማቀናበር፣ Wi-Fi ጋር ያገናኙ</string>
+    <string name="network_no_connection_description">ውሂብዎን ለመቅዳት ከWi-Fi ወይም ከተንቀሳቃሽ ስልክ አውታረ መረብ ጋር መገናኘት ይኖርብዎታል።\n\n      የተንቀሳቃሽ ስልክ አውታረ መረብዎን በቅንብሮች ውስጥ ማግበር ይችላሉ።</string>
+    <string name="network_see_all_wifi">ሁሉንም የWi-Fi አውታረ መረቦችን ይመልከቱ</string>
+    <string name="network_title">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="network_title_auto_connect">ከWi-Fi ጋር በመገናኘት ላይ…</string>
+    <string name="network_use_cellular_carrier">በኋላ ላይ ከWi-Fi ጋር ይገናኙ</string>
+    <string name="sim_ready_message_carrier_app">%1$s ን ማግበር ለማጠናቀቅ፣ የ %2$s መተግበሪያን ማውረድ ያስፈልግዎታል። ለአሁን፣ የእርስዎን ስልክ ማቀናበራችን እንጨርስ።</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">የእርስዎን ቁጥር ማግበርን ለማጠናቀቅ፣ የ %1$s መተግበሪያን ማውረድ ያስፈልግዎታል። ለአሁን፣ የእርስዎን ስልክ ማቀናበራችን እንጨርስ።</string>
+    <string name="survey_email_address">የኢሜይል አድራሻ</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{የእርስዎ ስልክ ከWi-Fi አውታረ መረብ ጋር አልተገናኘም። ይህን መረጃ አሁን ለማየት {0}ን በድር አሳሽ ይጎብኙ።}TABLET{የእርስዎ ጡባዊ ከWi-Fi አውታረ መረብ ጋር አልተገናኘም። ይህን መረጃ አሁን ለማየት {0}ን በድር አሳሽ ይጎብኙ።}other{የእርስዎ መሣሪያ ከWi-Fi አውታረ መረብ ጋር አልተገናኘም። ይህን መረጃ አሁን ለማየት {0}ን በድር አሳሽ ይጎብኙ።}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{ከWi-Fi ወይም ከሞባይል አውታረ መረብ ጋር ማገናኘት የእርስዎን ስልክ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ጊዜ እና ቀን በራስ-ሰር ማዋቀር\n      }TABLET{ከአውታረ መረብ ጋር መገናኘት የእርስዎን ጡባዊ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ሰዓትን እና ቀንን በራስ-ሰር ማዋቀር\n      }other{ከአውታረ መረብ ጋር መገናኘት የእርስዎን መሣሪያ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ሰዓትን እና ቀንን በራስ-ሰር ማዋቀር}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{ከWi-Fi ወይም ከሞባይል አውታረ መረብ ጋር መገናኘት የእርስዎን ስልክ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር የሚከተሉትን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      ሲም ማውረድ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ሰዓት እና ቀን በራስ-ሰር ማዋቀር\n      }TABLET{ከአውታረ መረብ ጋር መገናኘት የእርስዎን ጡባዊ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር እነዚህን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      ሲም ማውረድ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ሰዓትን እና ቀንን በራስ-ሰር ማዋቀር\n      }other{ከአውታረ መረብ ጋር መገናኘት የእርስዎን መሣሪያ በፍጥነት እንዲያዋቅሩ ያግዝዎታል።\n\n      ግንኙነት ሳይኖር እነዚህን ማድረግ አይችሉም፦\n      ወደ የእርስዎ Google መለያ መግባት\n      መተግበሪያዎችን እና ውሂብን ወደነበሩበት መመለስ\n      ሲም ማውረድ\n      የሶፍትዌር ዝማኔዎችን ማግኘት\n      ሰዓትን እና ቀንን በራስ-ሰር ማዋቀር}}</string>
+    <string name="wifi_scanning">የWi-Fi አውታረ መረቦችን በመፈለግ ላይ…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{የእርስዎ ስልክ በሚዋቀርበት ጊዜ የተንቀሳቃሽ ስልክ አውታረ መረቡን ይጠቀማል፣ እና ለተጠቀሙበት ውሂብ እንዲከፍሉ ሊደረጉ ይችላሉ። ክፍያዎችን ለማስቀረት ከWi-Fi ጋር ይገናኙ።}TABLET{የእርስዎ ጡባዊ በሚዋቀርበት ጊዜ የተንቀሳቃሽ ስልክ አውታረ መረቡን ይጠቀማል፣ እና ለተጠቀሙበት ውሂብ እንዲከፍሉ ሊደረጉ ይችላሉ። ክፍያዎችን ለማስቀረት ከWi-Fi ጋር ይገናኙ።}other{የእርስዎ መሣሪያ በሚዋቀርበት ጊዜ የተንቀሳቃሽ ስልክ አውታረ መረቡን ይጠቀማል፣ እና ለተጠቀሙበት ውሂብ እንዲከፍሉ ሊደረጉ ይችላሉ። ክፍያዎችን ለማስቀረት ከWi-Fi ጋር ይገናኙ።}}</string>
+    <string name="wifi_title">ከWi-Fi ጋር ይገናኙ</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wifi ለአሁን በራስ-ሰር አይገናኝም</string>
+</resources>

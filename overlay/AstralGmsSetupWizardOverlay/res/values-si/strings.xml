@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wifi විසන්ධි විය.</string>
+    <string name="accessibility_wifi_one_bar">Wifi තීරු එකයි.</string>
+    <string name="accessibility_wifi_signal_full">Wifi සංඥාව පිරී ඇත.</string>
+    <string name="accessibility_wifi_three_bars">WiFi තීරු තුනයි.</string>
+    <string name="accessibility_wifi_two_bars">Wifi තීරු දෙකයි.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{ඔබගේ ඉ-තැපැල්, සම්බන්ධතා, දින දර්ශන සිදුවීම් සහ තවත් දේ මෙම දුරකථනයට සමමුහුර්ත කෙරෙනු ඇත. ඔබ ද Google Play වෙතින් යෙදුම්, සංගීතය සහ ක්‍රීඩා බාගැනීම ආරම්භ කිරීමට සූදානම්ය.\n\n      ඔබට සැකසීම් > ගිණුම් වෙත යාමෙන් පසුව ගිණුම් එක් කිරීමට සහ ඉවත් කිරීමට හැකිය.}TABLET{ඔබගේ ඉ-තැපැල්, සම්බන්ධතා, දින දර්ශන සිදුවීම් සහ තවත් දේ මෙම ටැබ්ලට් පරිගණකයට සමමුහුර්ත කෙරෙනු ඇත. ඔබ ද Google Play වෙතින් යෙදුම්, සංගීතය සහ ක්‍රීඩා බාගැනීම ආරම්භ කිරීමට සූදානම්ය.\n\n      ඔබට සැකසීම් > ගිණුම් වෙත යාමෙන් පසුව ගිණුම් එක් කිරීමට සහ ඉවත් කිරීමට හැකිය.}other{ඔබගේ ඉ-තැපැල්, සම්බන්ධතා, දින දර්ශන සිදුවීම් සහ තවත් දේ මෙම උපාංගයට සමමුහුර්ත කෙරෙනු ඇත. ඔබ ද Google Play වෙතින් යෙදුම්, සංගීතය සහ ක්‍රීඩා බාගැනීම ආරම්භ කිරීමට සූදානම්ය.\n\n      ඔබට සැකසීම් > ගිණුම් වෙත යාමෙන් පසුව ගිණුම් එක් කිරීමට සහ ඉවත් කිරීමට හැකිය.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{ඔබගේ දුරකථනය යළි ආරම්භ කර නැවත උත්සාහ කරන්න, හෝ පිහිටුවීම සඳහා Wi-Fi වෙත සම්බන්ධ වෙන්න. ජංගම දත්ත ක්‍රියාත්මක කිරීමේදී තවමත් ගැටලු තිබේ නම් ඔබගේ වාහක අමතන්න.}TABLET{ඔබගේ ටැබ්ලට් පරිගණකය යළි ආරම්භ කර නැවත උත්සාහ කරන්න, හෝ පිහිටුවීම සඳහා Wi-Fi වෙත සම්බන්ධ වෙන්න. ජංගම දත්ත ක්‍රියාත්මක කිරීමේදී තවමත් ගැටලු තිබේ නම් ඔබගේ වාහක අමතන්න.}other{ඔබගේ උපාංගය යළි ආරම්භ කර නැවත උත්සාහ කරන්න, හෝ පිහිටුවීම සඳහා Wi-Fi වෙත සම්බන්ධ වෙන්න. ජංගම දත්ත ක්‍රියාත්මක කිරීමේදී තවමත් ගැටලු තිබේ නම් ඔබගේ වාහක අමතන්න.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="deferred_welcome_airplane_mode_message">අවසන් පියවර කිහිපය අවසන් කිරීමට ඔබට සබැඳුමක් අවශ්‍යය.\n\n      ගුවන් යානා ප්‍රකාරය ක්‍රියාත්මක විට, Wi-Fi, ජංගම ජාල, සහ බ්ලූටූත් විසන්ධි කෙරේ.</string>
+    <string name="dialog_connect_to_wifi_button_label">Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="network_connection_dialog_text">යෙදුම් සහ තවත් දේ ලබා ගැනීමට, Wi-Fi ජාලයකට සම්බන්ධ වන්න හෝ ජංගම දත්ත භාවිත කරන්න</string>
+    <string name="network_description_text_esim">ඔබේ eSIM එක සැකසීමට Wi-Fi වෙත සම්බන්‍ධ කරන්න</string>
+    <string name="network_no_connection_description">ඔබේ දත්ත පිටපත් කිරීමට ඔබ Wi-Fi හෝ ජංගම ජාලයකට සම්බන්ධ වී සිටීමට අවශ්‍ය වේ.\n\n      ඔබට ඔබේ ජංගම ජාලය සැකසීම් තුළ සක්‍රිය කළ හැක.</string>
+    <string name="network_see_all_wifi">සියලු Wi-Fi ජාල බලන්න</string>
+    <string name="network_title">Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="network_title_auto_connect">Wi-Fi වෙත සබැඳෙමින්…</string>
+    <string name="network_use_cellular_carrier">පසුව Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="sim_ready_message_carrier_app">%1$s සක්‍රිය කිරීම අවසන් කිරීමට, ඔබට %2$s යෙදුම බාගැනීමට අවශ්‍ය වනු ඇත. දැනට, ඔබේ දුරකථනය පිහිටුවීම අවසන් කරමු.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">ඔබේ අංකය සක්‍රිය කිරීම අවසන් කිරීමට, ඔබට %1$s යෙදුම බාගැනීමට අවශ්‍ය වනු ඇත. දැනට, ඔබේ දුරකථනය පිහිටුවීම අවසන් කරමු.</string>
+    <string name="survey_email_address">ඉ-තැපැල් ලිපිනය</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{ඔබගේ දුරකථනය Wi-Fi ජාලයක් වෙත සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රවුසරයෙන් {0} වෙත යන්න.}TABLET{ඔබගේ ටැබ්ලට් පරිගණකය Wi-Fi ජාලයක් වෙත සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රවුසරයෙන් {0} වෙත යන්න.}other{ඔබගේ උපාංගය Wi-Fi ජාලයක් වෙත සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රවුසරයෙන් {0} වෙත යන්න.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Wi-Fi හෝ ජංගම ජාලයකට සබැඳීම ඔබට ඔබේ දුරකථනය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම\n      }TABLET{ජාලයකට සබැදීම ඔබට ඔබේ ටැබ්ලටය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම\n      }other{ජාලයකට සබැදීම ඔබට ඔබේ උපාංගය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Wi-Fi හෝ ජංගම ජාලයකට සබැඳීම ඔබට ඔබේ දුරකථනය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      SIM එකක් බාගැනීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම\n      }TABLET{ජාලයකට සබැදීම ඔබට ඔබේ ටැබ්ලටය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      SIM එකක් බාගැනීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම\n      }other{ජාලයකට සබැදීම ඔබට ඔබේ උපාංගය ඉක්මනින් පිහිටුවීමට උදවු වේ.\n\n      සබැඳුමක් නොමැතිව, ඔබට පහත දේවල් කළ නොහැක:\n      ඔබේ Google ගිණුම වෙත පිරීම\n      යෙදුම් සහ දත්ත ප්‍රතිසාධනය කිරීම\n      SIM එකක් බාගැනීම\n      මෘදුකාංග යාවත්කාලීන ලබා ගැනීම\n      වේලාව සහ දිනය ස්වයංක්‍රීයව පිහිටුවීම}}</string>
+    <string name="wifi_scanning">Wi-Fi ජාල සඳහා සොයමින්...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{පිහිටුවීම අතරතුර ඔබගේ දුරකථනය ජංගම ජාලය භාවිත කරනු ඇති අතර, ඔබෙන් මෙම දත්ත භාවිතය සඳහා අය කරනු ඇත. ඇති විය හැකි ගාස්තු වළක්වා ගැනීමට, Wi-Fi වෙත සම්බන්ධ වන්න.}TABLET{පිහිටුවීම අතරතුර ඔබගේ ටැබ්ලට් පරිගණකය ජංගම ජාලය භාවිත කරනු ඇති අතර, ඔබෙන් මෙම දත්ත භාවිතය සඳහා අය කරනු ඇත. ඇති විය හැකි ගාස්තු වළක්වා ගැනීමට, Wi-Fi වෙත සම්බන්ධ වන්න.}other{පිහිටුවීම අතරතුර ඔබගේ උපාංගය ජංගම ජාලය භාවිත කරනු ඇති අතර, ඔබෙන් මෙම දත්ත භාවිතය සඳහා අය කරනු ඇත. ඇති විය හැකි ගාස්තු වළක්වා ගැනීමට, Wi-Fi වෙත සම්බන්ධ වන්න.}}</string>
+    <string name="wifi_title">Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi දැනට ස්වයංක්‍රියව සබැඳි නොවනු ඇත</string>
+</resources>

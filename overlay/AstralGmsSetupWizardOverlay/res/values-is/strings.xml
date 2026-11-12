@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi ótengt.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: Eitt strik.</string>
+    <string name="accessibility_wifi_signal_full">Fullur Wi-Fi sendistyrkur.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: Þrjú strik.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: Tvö strik.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Tölvupósturinn þinn, tengiliðir, dagatalsviðburðir og fleira verður samstillt við þennan síma. Þú getur einnig byrjað að sækja forrit, tónlist og leiki á Google Play.\n\n      Þú getur bætt við og fjarlægt reikninga síðar með því að fara í Stillingar > Reikningar.}TABLET{Tölvupósturinn þinn, tengiliðir, dagatalsviðburðir og fleira verður samstillt við þessa spjaldtölvu. Þú getur einnig byrjað að sækja forrit, tónlist og leiki á Google Play.\n\n      Þú getur bætt við og fjarlægt reikninga síðar með því að fara í Stillingar > Reikningar.}other{Tölvupósturinn þinn, tengiliðir, dagatalsviðburðir og fleira verður samstillt við þetta tæki. Þú getur einnig byrjað að sækja forrit, tónlist og leiki á Google Play.\n\n      Þú getur bætt við og fjarlægt reikninga síðar með því að fara í Stillingar > Reikningar.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Endurræstu símann og reyndu aftur eða tengstu Wi-Fi til að setja upp. Hafðu samband við símafyrirtækið þitt ef vandamál við virkjun farsímagagna eru viðvarandi.}TABLET{Endurræstu spjaldtölvuna og reyndu aftur eða tengstu Wi-Fi til að setja upp. Hafðu samband við símafyrirtækið þitt ef vandamál við virkjun farsímagagna eru viðvarandi.}other{Endurræstu tækið og reyndu aftur eða tengstu Wi-Fi til að setja upp. Hafðu samband við símafyrirtækið þitt ef vandamál við virkjun farsímagagna eru viðvarandi.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Tengjast Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Þú þarft tengingu til að ljúka síðustu skrefum uppsetningarinnar.\n\n      Þegar kveikt er á flugstillingu er slökkt á Wi-Fi, farsímakerfum og Bluetooth.</string>
+    <string name="dialog_connect_to_wifi_button_label">Tengjast Wi-Fi</string>
+    <string name="network_connection_dialog_text">Tengstu Wi-Fi neti eða notaðu farsímagögn til að sækja forrit og fleira</string>
+    <string name="network_description_text_esim">Tengstu WiFi-neti til að setja upp eSIM-kort</string>
+    <string name="network_no_connection_description">Þú þarft að vera með tengingu við Wi-Fi eða farsímakerfi til að afrita gögnin þín.\n\n      Þú getur virkjað farsímakerfið þitt í stillingunum.</string>
+    <string name="network_see_all_wifi">Sjá öll Wi-Fi net</string>
+    <string name="network_title">Tengjast Wi-Fi</string>
+    <string name="network_title_auto_connect">Tengist við Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Tengjast Wi-Fi síðar</string>
+    <string name="sim_ready_message_carrier_app">Til að ljúka við að virkja %1$s þarftu að sækja %2$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Til að ljúka við að virkja númerið þitt þarftu að sækja %1$s forritið. Nú skulum við einbeita okkur að því að setja upp símann þinn.</string>
+    <string name="survey_email_address">Netfang</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Síminn er ekki tengdur við Wi-Fi net. Til að skoða þessar upplýsingar núna skaltu opna {0} í vafra.}TABLET{Spjaldtölvan er ekki tengd við Wi-Fi net. Til að skoða þessar upplýsingar núna skaltu opna {0} í vafra.}other{Tækið er ekki tengt við Wi-Fi net. Til að skoða þessar upplýsingar núna skaltu opna {0} í vafra.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Ef þú tengist Wi-Fi eða farsímakerfi er fljótlegt að setja símann upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google-reikninginn þinn\n      Endurheimt forrit og gögn\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa\n      }TABLET{Ef þú tengist netkerfi er fljótlegt að setja spjaldtölvuna upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google-reikninginn þinn\n      Endurheimt forrit og gögn\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa\n      }other{Ef þú tengist netkerfi er fljótlegt að setja tækið upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google reikninginn-þinn\n      Endurheimt forrit og gögn\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Ef þú tengist Wi-Fi eða farsímakerfi er fljótlegt að setja símann upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google-reikninginn þinn\n      Endurheimt forrit og gögn\n      Sótt SIM\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa\n      }TABLET{Ef þú tengist netkerfi er fljótlegt að setja spjaldtölvuna upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google-reikninginn þinn\n      Endurheimt forrit og gögn\n      Sótt SIM\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa\n      }other{Ef þú tengist netkerfi er fljótlegt að setja tækið upp.\n\n      Án nettengingar geturðu ekki:\n      Skráð þig inn á Google-reikninginn þinn\n      Endurheimt forrit og gögn\n      Sótt SIM\n      Sótt hugbúnaðaruppfærslur\n      Stillt tíma og dagsetningu sjálfkrafa}}</string>
+    <string name="wifi_scanning">Leitar að Wi-Fi neti…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Síminn mun nota farsímakerfið meðan á uppsetningu stendur og hugsanlega þarf að greiða fyrir gagnanotkunina. Tengstu Wi-Fi til að forðast möguleg gjöld.}TABLET{Spjaldtölvan mun nota farsímakerfið meðan á uppsetningu stendur og hugsanlega þarf að greiða fyrir gagnanotkunina. Tengstu Wi-Fi til að forðast möguleg gjöld.}other{Tækið mun nota farsímakerfið meðan á uppsetningu stendur og hugsanlega þarf að greiða fyrir gagnanotkunina. Tengstu Wi-Fi til að forðast möguleg gjöld.}}</string>
+    <string name="wifi_title">Tengjast Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi tengist ekki sjálfkrafa eins og er</string>
+</resources>

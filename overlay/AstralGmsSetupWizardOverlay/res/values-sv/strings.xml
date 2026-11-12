@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Ingen wifi-anslutning.</string>
+    <string name="accessibility_wifi_one_bar">wifi: en stapel.</string>
+    <string name="accessibility_wifi_signal_full">Full signalstyrka för wifi.</string>
+    <string name="accessibility_wifi_three_bars">wifi: tre staplar.</string>
+    <string name="accessibility_wifi_two_bars">wifi: två staplar.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{E-post, kontakter, kalenderhändelser m.m. synkroniseras med telefonen. Du kan även börja ladda ned appar, musik och spel från Google Play.\n\n      Du kan när som helst lägga till och ta bort konton via Inställningar > Konton.}TABLET{E-post, kontakter, kalenderhändelser m.m. synkroniseras med surfplattan. Du kan även börja ladda ned appar, musik och spel från Google Play.\n\n      Du kan när som helst lägga till och ta bort konton via Inställningar > Konton.}other{E-post, kontakter, kalenderhändelser m.m. synkroniseras med enheten. Du kan även börja ladda ned appar, musik och spel från Google Play.\n\n      Du kan när som helst lägga till och ta bort konton via Inställningar > Konton.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Starta om telefonen och försök igen eller anslut till wifi för att slutföra konfigureringen. Om det fortfarande inte går att aktivera mobildata kontaktar du operatören.}TABLET{Starta om surfplattan och försök igen eller anslut till wifi för att slutföra konfigureringen. Om det fortfarande inte går att aktivera mobildata kontaktar du operatören.}other{Starta om enheten och försök igen eller anslut till wifi för att slutföra konfigureringen. Om det fortfarande inte går att aktivera mobildata kontaktar du operatören.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Anslut till wifi</string>
+    <string name="deferred_welcome_airplane_mode_message">Du måste ha en anslutning för att slutföra konfigurationen.\n\n      wifi, Bluetooth och mobilnätverket är inaktiverade i flygplansläget.</string>
+    <string name="dialog_connect_to_wifi_button_label">Anslut till wifi</string>
+    <string name="network_connection_dialog_text">Om du vill hämta appar och annat ansluter du till ett wifi-nätverk eller använder mobildata</string>
+    <string name="network_description_text_esim">Anslut till wifi för att konfigurera ditt eSIM</string>
+    <string name="network_no_connection_description">Du måste vara ansluten till wifi eller ett mobilnätverk för att kopiera din data.\n\n      Du kan aktivera ditt mobilnätverk i inställningarna.</string>
+    <string name="network_see_all_wifi">Visa alla wifi-nätverk</string>
+    <string name="network_title">Anslut till wifi</string>
+    <string name="network_title_auto_connect">Ansluter till wifi …</string>
+    <string name="network_use_cellular_carrier">Anslut till wifi senare</string>
+    <string name="sim_ready_message_carrier_app">Du måste ladda ned %2$s-appen för att slutföra aktiveringen av %1$s. Vi kan slutföra konfigureringen av mobilen så länge.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Du måste ladda ned %1$s-appen för att slutföra aktiveringen av telefonnumret. Vi kan slutföra konfigureringen av mobilen så länge.</string>
+    <string name="survey_email_address">E-postadress</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefonen är inte ansluten till ett wifi-nätverk. Besök {0} om du vill visa informationen nu.}TABLET{Surfplattan är inte ansluten till ett wifi-nätverk. Besök {0} om du vill visa informationen nu.}other{Enheten är inte ansluten till ett wifi-nätverk. Besök {0} om du vill visa informationen nu.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Om du ansluter till ett wifi- eller mobilnätverk går det snabbt att konfigurera telefonen.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      uppdatera mjukvara\n      ställa in tid och datum automatiskt.\n      }TABLET{Om du ansluter till ett nätverk går det snabbt att konfigurera surfplattan.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      uppdatera mjukvara\n      ställa in tid och datum automatiskt.\n      }other{Om du ansluter till ett nätverk går det snabbt att konfigurera enheten.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      uppdatera mjukvara\n      ställa in tid och datum automatiskt.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Om du ansluter till ett wifi- eller mobilnätverk går det snabbt att konfigurera telefonen.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      ladda ned ett SIM-kort\n      uppdatera mjukvara\n      ställa in tid och datum automatiskt.\n      }TABLET{Om du ansluter till ett nätverk går det snabbt att konfigurera surfplattan.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      ladda ned ett SIM-kort\n      uppdatera mjukvara\n      ställa in tid och datum automatiskt.\n      }other{Om du ansluter till ett nätverk går det snabbt att konfigurera enheten.\n\n      Utan anslutning kan du inte\n      logga in på ditt Google-konto\n      återställa appar och data\n      ladda ned ett SIM-kort\n      uppdatera mjukvara\n      ställa in tid och datum automatisk.}}</string>
+    <string name="wifi_scanning">Söker efter wifi-nätverk …</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Mobilnätverket används när telefonen konfigureras och du kan behöva betala för detta. Om du vill undvika avgifter ansluter du till wifi i stället.}TABLET{Mobilnätverket används när surfplattan konfigureras och du kan behöva betala för detta. Om du vill undvika avgifter ansluter du till wifi i stället.}other{Mobilnätverket används när enheten konfigureras och du kan behöva betala för detta. Om du vill undvika avgifter ansluter du till wifi i stället.}}</string>
+    <string name="wifi_title">Anslut till wifi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wifi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wifi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wifi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wifi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Du ansluts inte till wifi automatiskt för närvarande</string>
+</resources>

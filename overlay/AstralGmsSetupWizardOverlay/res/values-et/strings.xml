@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">WiFi-ühendus on katkestatud.</string>
+    <string name="accessibility_wifi_one_bar">WiFi: üks pulk.</string>
+    <string name="accessibility_wifi_signal_full">WiFi-signaal on tugev.</string>
+    <string name="accessibility_wifi_three_bars">WiFi: kolm pulka.</string>
+    <string name="accessibility_wifi_two_bars">WiFi: kaks pulka.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Teie meilid, kontaktid, kalendrisündmused ja muu sünkroonitakse selle telefoniga. Samuti võite nüüd Google Playst rakendusi, muusikat ja mänge alla laadida.\n\n      Hiljem võite kontosid lisada ja eemaldada menüüs Seaded > Kontod.}TABLET{Teie meilid, kontaktid, kalendrisündmused ja muu sünkroonitakse selle tahvelarvutiga. Samuti võite nüüd Google Playst rakendusi, muusikat ja mänge alla laadida.\n\n      Hiljem võite kontosid lisada ja eemaldada menüüs Seaded > Kontod.}other{Teie meilid, kontaktid, kalendrisündmused ja muu sünkroonitakse selle seadmega. Samuti võite nüüd Google Playst rakendusi, muusikat ja mänge alla laadida.\n\n      Hiljem võite kontosid lisada ja eemaldada menüüs Seaded > Kontod.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Taaskäivitage telefon ja proovige uuesti või looge seadistamiseks ühendus WiFi-võrguga. Kui mobiilse andmeside aktiveerimine siiski ei õnnestu, võtke ühendust oma operaatoriga.}TABLET{Taaskäivitage tahvelarvuti ja proovige uuesti või looge seadistamiseks ühendus WiFi-võrguga. Kui mobiilse andmeside aktiveerimine siiski ei õnnestu, võtke ühendust oma operaatoriga.}other{Taaskäivitage seade ja proovige uuesti või looge seadistamiseks ühendus WiFi-võrguga. Kui mobiilse andmeside aktiveerimine siiski ei õnnestu, võtke ühendust oma operaatoriga.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Looge ühendus WiFi-võrguga</string>
+    <string name="deferred_welcome_airplane_mode_message">Seadistuse viimaste toimingute tegemiseks on vaja Interneti-ühendust.\n\n      Kui lennurežiim on sisse lülitatud, on WiFi-, mobiilsidevõrkude ja Bluetoothi ühendused katkestatud.</string>
+    <string name="dialog_connect_to_wifi_button_label">Looge ühendus WiFi-võrguga</string>
+    <string name="network_connection_dialog_text">Rakenduste ja muu hankimiseks looge ühendus WiFi- või mobiilsidevõrguga</string>
+    <string name="network_description_text_esim">eSIM-i seadistamiseks looge ühendus WiFi-võrguga</string>
+    <string name="network_no_connection_description">Andmete kopeerimiseks peate olema ühendatud WiFi- või mobiilsidevõrguga.\n\n      Mobiilsidevõrgu saate aktiveerida seadetes.</string>
+    <string name="network_see_all_wifi">Kuva kõik WiFi-võrgud</string>
+    <string name="network_title">Ühenduse loomine WiFi-võrguga</string>
+    <string name="network_title_auto_connect">WiFi-ga ühendamine…</string>
+    <string name="network_use_cellular_carrier">Loo ühendus WiFi-võrguga hiljem</string>
+    <string name="sim_ready_message_carrier_app">Telefoninumbri %1$s aktiveerimise lõpuleviimiseks peate alla laadima rakenduse %2$s. Lõpetame nüüd teie telefoni seadistamise.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Oma numbri aktiveerimise lõpuleviimiseks peate alla laadima rakenduse %1$s. Lõpetame nüüd teie telefoni seadistamise.</string>
+    <string name="survey_email_address">E-posti aadress</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Teie telefon pole WiFi-võrguga ühendatud. Kui soovite kohe teavet vaadata, külastage veebibrauseris aadressi {0}.}TABLET{Teie tahvelarvuti pole WiFi-võrguga ühendatud. Kui soovite kohe teavet vaadata, külastage veebibrauseris aadressi {0}.}other{Teie seade pole WiFi-võrguga ühendatud. Kui soovite kohe teavet vaadata, külastage veebibrauseris aadressi {0}.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{WiFi- või mobiilsidevõrguga ühendamine aitab teil kiiresti oma telefoni seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ja andmeid;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.\n      }TABLET{Võrguga ühenduse loomine aitab teil kiirelt oma tahvelarvuti seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ja andmeid;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.\n      }other{Võrguga ühenduse loomine aitab teil kiirelt oma seadme seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ja andmeid;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{WiFi- või mobiilsidevõrguga ühendamine aitab teil kiiresti oma telefoni seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ega andmeid;\n      laadida alla SIM-kaarti;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.\n      }TABLET{Võrguga ühenduse loomine aitab teil kiirelt oma tahvelarvuti seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ega andmeid;\n      laadida alla SIM-kaarti;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.\n      }other{Võrguga ühenduse loomine aitab teil kiirelt oma seadet seadistada.\n\n      Ilma ühenduseta ei saa te:\n      logida sisse oma Google\'i kontole;\n      taastada rakendusi ega andmeid;\n      laadida alla SIM-kaarti;\n      hankida tarkvaravärskendusi;\n      seadistada automaatselt kuupäeva ja kellaaega.}}</string>
+    <string name="wifi_scanning">WiFi-võrkude otsimine …</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Teie telefon kasutab seadistamise ajal mobiilsidevõrku ja teilt võidakse selle andmekasutuse eest tasu võtta. Võimalike kulude vältimiseks looge ühendus WiFi-võrguga.}TABLET{Teie tahvelarvuti kasutab seadistamise ajal mobiilsidevõrku ja teilt võidakse selle andmekasutuse eest tasu võtta. Võimalike kulude vältimiseks looge ühendus WiFi-võrguga.}other{Teie seade kasutab seadistamise ajal mobiilsidevõrku ja teilt võidakse selle andmekasutuse eest tasu võtta. Võimalike kulude vältimiseks looge ühendus WiFi-võrguga.}}</string>
+    <string name="wifi_title">Ühenduse loomine WiFi-võrguga</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">5. põlvkonna WiFi</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">6. põlvkonna WiFi</string>
+    <string name="wifitrackerlib_wifi_standard_11be">7. põlvkonna WiFi</string>
+    <string name="wifitrackerlib_wifi_standard_11n">4. põlvkonna WiFi</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi-ühendust ei looda praegu automaatselt</string>
+</resources>

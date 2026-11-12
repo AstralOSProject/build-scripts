@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">‏Wifi غیر منسلک ہے۔</string>
+    <string name="accessibility_wifi_one_bar">‏Wifi کا ایک بار۔</string>
+    <string name="accessibility_wifi_signal_full">‏Wifi سگنل فل ہے۔</string>
+    <string name="accessibility_wifi_three_bars">‏Wifi کے تین بارز۔</string>
+    <string name="accessibility_wifi_two_bars">‏Wifi کے دو بارز۔</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{‏آپ کی ای میل، رابطے، کیلنڈر ایونٹس اور دیگر چیزیں اس فون سے سنک ہو جائیں گی۔ اس کے علاوہ آپ Google Play سے ایپس، موسیقی اور گیمز ڈاؤن لوڈ شروع کرنے کیلئے بھی تیار ہیں۔\n\n      آپ بعد میں ترتیبات > اکاؤنٹس پر جا کر اکاؤنٹس شامل کر سکتے ہیں اور ہٹا سکتے ہیں۔}TABLET{‏آپ کی ای میل، رابطے، کیلنڈر ایونٹس اور دیگر چیزیں اس ٹیبلیٹ سے سنک ہو جائیں گی۔ اس کے علاوہ آپ Google Play سے ایپس، موسیقی اور گیمز ڈاؤن لوڈ شروع کرنے کیلئے بھی تیار ہیں۔\n\n      آپ بعد میں ترتیبات > اکاؤنٹس پر جا کر اکاؤنٹس شامل کر سکتے ہیں اور ہٹا سکتے ہیں۔}other{‏آپ کی ای میل، رابطے، کیلنڈر ایونٹس اور دیگر چیزیں اس آلے سے سنک ہو جائیں گی۔ اس کے علاوہ آپ Google Play سے ایپس، موسیقی اور گیمز ڈاؤن لوڈ شروع کرنے کیلئے بھی تیار ہیں۔\n\n      آپ بعد میں ترتیبات > اکاؤنٹس پر جا کر اکاؤنٹس شامل کر سکتے ہیں اور ہٹا سکتے ہیں۔}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{‏اپنا فون ری سٹارٹ کر کے دوبارہ کوشش کریں یا سیٹ اپ کیلئے Wi-Fi سے منسلک کریں۔ اگر آپ کو اب بھی موبائل ڈیٹا فعال کرنے میں دشواری پیش آ رہی ہے تو اپنے کیریئر سے رابطہ کریں۔}TABLET{‏اپنا ٹیبلیٹ ری سٹارٹ کر کے دوبارہ کوشش کریں یا سیٹ اپ کیلئے Wi-Fi سے منسلک کریں۔ اگر آپ کو اب بھی موبائل ڈیٹا فعال کرنے میں دشواری پیش آ رہی ہے تو اپنے کیریئر سے رابطہ کریں۔}other{‏اپنا آلہ ری سٹارٹ کر کے دوبارہ کوشش کریں یا سیٹ اپ کیلئے Wi-Fi سے منسلک کریں۔ اگر آپ کو اب بھی موبائل ڈیٹا فعال کرنے میں دشواری پیش آ رہی ہے تو اپنے کیریئر سے رابطہ کریں۔}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">‏Wi-Fi سے منسلک ہوں</string>
+    <string name="deferred_welcome_airplane_mode_message">‏سیٹ اپ کے آخری چند مراحل ختم کرنے کیلئے آپ کو ایک کنکشن درکار ہے۔\n\n      ہوائی جہاز وضع آن ہونے پر، Wi-Fi، موبائل نیٹ ورکس اور بلوٹوتھ غیر منسلک ہو جاتے ہیں۔</string>
+    <string name="dialog_connect_to_wifi_button_label">‏Wi-Fi سے منسلک ہوں</string>
+    <string name="network_connection_dialog_text">‏ایپس اور بہت کچھ حاصل کرنے کے لیے Wi-Fi نیٹ ورک سے منسلک ہوں یا موبائل ڈیٹا کا استعمال کریں</string>
+    <string name="network_description_text_esim">‏اپنا eSIM سیٹ اپ کرنے کے لیے، Wi-Fi سے منسلک ہوں</string>
+    <string name="network_no_connection_description">‏اپنا ڈیٹا کاپی کرنے کیلئے آپ کو Wi-Fi یا موبائل نیٹ ورک سے منسلک ہونے کی ضرورت ہے۔\n\n      آپ ترتیبات میں اپنا موبائل نیٹ ورک فعال کر سکتے ہیں۔</string>
+    <string name="network_see_all_wifi">‏تمام Wi-Fi نیٹ ورکس ملاحظہ کریں</string>
+    <string name="network_title">‏Wi-Fi سے منسلک ہوں</string>
+    <string name="network_title_auto_connect">‏Wi-Fi سے منسلک ہو رہا ہے…</string>
+    <string name="network_use_cellular_carrier">‏Wi-Fi سے بعد میں منسلک ہوں</string>
+    <string name="sim_ready_message_carrier_app">%1$s فعال کرنے کے لیے آپ کو %2$s اپپ ڈاؤن لوڈ کرنے کی ضرورت ہوگی۔ ابھی کے لیے، آئیے آپ کے فون کو ترتیب دینا مکمل کریں۔</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">اپنے نمبر کو فعال کرنے کے لیے آپ کو %1$s اپپ ڈاؤن لوڈ کرنے کی ضرورت ہوگی۔ ابھی کے لیے، آئیے آپ کے فون کو ترتیب دینا مکمل کریں۔</string>
+    <string name="survey_email_address">ای میل پتہ</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{‏آپ کا فون کسی Wi-Fi نیٹ ورک سے منسلک نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے کسی ویب براؤزر میں {0} ملاحظہ کریں۔}TABLET{‏آپ کا ٹیبلیٹ کسی Wi-Fi نیٹ ورک سے منسلک نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے کسی ویب براؤزر میں {0} ملاحظہ کریں۔}other{‏آپ کا آلہ کسی Wi-Fi نیٹ ورک سے منسلک نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے کسی ویب براؤزر میں {0} ملاحظہ کریں۔}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{‏Wi-Fi یا موبائل نیٹ ورک سے منسلک ہو کر آپ کو اپنا فون تیزی سے سیٹ اپ کرنے میں مدد ملتی ہے۔\n\n      کنکشن کے بغیر آپ یہ چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا بحال نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے\n      }TABLET{‏نیٹ ورک سے منسلک ہونا آپ کو آپ کا ٹیبلیٹ تیزی سے سیٹ اپ کرنے میں مدد کرتا ہے۔\n\n      کنکشن کے بغیر آپ یہ سب چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا کو بحال نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے\n      }other{‏نیٹ ورک سے منسلک ہونا آپ کو آپ کا آلہ تیزی سے سیٹ اپ کرنے میں مدد کرتا ہے۔\n\n      کنکشن کے بغیر آپ یہ سب چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا بحال نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{‏Wi-Fi یا موبائل نیٹ ورک سے منسلک ہو کر آپ کو اپنا فون تیزی سے سیٹ اپ کرنے میں مدد ملتی ہے۔\n\n      کنکشن کے بغیر آپ یہ چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا بحال نہیں کر سکتے\n      SIM ڈاؤن لوڈ نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے\n      }TABLET{‏نیٹ ورک سے منسلک ہونا آپ کا ٹیبلیٹ تیزی سے سیٹ اپ کرنے میں آپ کی مدد کرتا ہے۔\n\n      کنکشن کے بغیر آپ یہ چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا بحال نہیں کر سکتے\n      SIM ڈاؤن لوڈ نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے\n      }other{‏نیٹ ورک سے منسلک ہونا آپ کو آپ کا آلہ تیزی سے سیٹ اپ کرنے میں مدد کرتا ہے۔\n\n      کنکشن کے بغیر آپ یہ چیزیں نہیں کر سکتے:\n      اپنے Google اکاؤنٹ میں سائن ان نہیں کر سکتے\n      ایپس اور ڈیٹا بحال نہیں کر سکتے\n      SIM ڈاؤن لوڈ نہیں کر سکتے\n      سافٹ ویئر اپ ڈیٹس حاصل نہیں کر سکتے\n      خودکار طور پر وقت اور تاریخ سیٹ اپ نہیں کر سکتے}}</string>
+    <string name="wifi_scanning">‏Wi-Fi نیٹ ورکس کی تلاش جاری ہے…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{‏آپ کا فون سیٹ اپ کے دوران موبائل نیٹ ورک استعمال کرے گا اور اس ڈیٹا کے استعمال کیلئے آپ سے قیمت وصول کی جا سکتی ہے۔ ممکنہ چارجز سے بچنے کیلئے Wi-Fi سے منسلک کریں۔}TABLET{‏آپ کا ٹیبلیٹ سیٹ اپ کے دوران موبائل نیٹ ورک استعمال کرے گا اور اس ڈیٹا کے استعمال کیلئے آپ سے قیمت وصول کی جا سکتی ہے۔ ممکنہ چارجز سے بچنے کیلئے Wi-Fi سے منسلک کریں۔}other{‏آپ کا آلہ سیٹ اپ کے دوران موبائل نیٹ ورک استعمال کرے گا اور اس ڈیٹا کے استعمال کیلئے آپ سے قیمت وصول کی جا سکتی ہے۔ ممکنہ چارجز سے بچنے کیلئے Wi-Fi سے منسلک کریں۔}}</string>
+    <string name="wifi_title">‏Wi-Fi سے منسلک ہوں</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">‏ابھی Wi-Fi خود کار طور پر منسلک نہیں ہوگا</string>
+</resources>

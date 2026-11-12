@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi-ն անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi-ի ուժգնությունը՝ մեկ գիծ:</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi-ի ազդանշանը ուժեղ է:</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi-ի ուժգնությունը՝ երեք գիծ:</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi-ի ուժգնությունը՝ երկու գիծ:</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Ձեր էլ․ հասցեն, կոնտակտները, օրացույցի միջոցառումները և այլ տվյալներ կհամաժամացվեն այս հեռախոսում։ Այժմ դուք կարող եք նաև ներբեռնել հավելվածներ, երաժշտություն ու խաղեր Google Play-ից։\n\n      Հաշիվ ավելացնելու և հեռացնելու համար անցեք Կարգավորումներ > Հաշիվներ։}TABLET{Ձեր էլ․ հասցեն, կոնտակտները, օրացույցի միջոցառումները և այլ տվյալներ կհամաժամացվեն այս պլանշետում։ Այժմ դուք կարող եք նաև ներբեռնել հավելվածներ, երաժշտություն ու խաղեր Google Play-ից։\n\n      Հաշիվ ավելացնելու և հեռացնելու համար անցեք Կարգավորումներ > Հաշիվներ։}other{Ձեր էլ․ հասցեն, կոնտակտները, օրացույցի միջոցառումները և այլ տվյալներ կհամաժամացվեն այս սարքում։ Այժմ դուք կարող եք նաև ներբեռնել հավելվածներ, երաժշտություն ու խաղեր Google Play-ից։\n\n      Հաշիվ ավելացնելու և հեռացնելու համար անցեք Կարգավորումներ > Հաշիվներ։}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Վերագործարկեք հեռախոսը և նորից փորձեք, կամ կարգավորելու համար միացեք Wi-Fi ցանցին։ Եթե դարձյալ չի հաջողվում ակտիվացնել բջջային ինտերնետը, դիմեք օպերատորին։}TABLET{Վերագործարկեք պլանշետը և նորից փորձեք, կամ կարգավորելու համար միացեք Wi-Fi ցանցին։ Եթե դարձյալ չի հաջողվում ակտիվացնել բջջային ինտերնետը, դիմեք օպերատորին։}other{Վերագործարկեք սարքը և նորից փորձեք, կամ կարգավորելու համար միացեք Wi-Fi ցանցի։ Եթե դարձյալ չի հաջողվում ակտիվացնել բջջային ինտերնետը, դիմեք օպերատորին։}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Միանալ Wi-Fi-ին</string>
+    <string name="deferred_welcome_airplane_mode_message">Վերջին քայլերն ավարտին հասցնելու համար անհրաժեշտ է միանալ ցանցին։\n\n      Երբ Ավիառեժիմը միացած է, Wi-Fi-ը, բջջային ցանցերն ու Bluetooth-ն անջատվում են։</string>
+    <string name="dialog_connect_to_wifi_button_label">Միանալ Wi-Fi-ին</string>
+    <string name="network_connection_dialog_text">Հավելվածներ տեղադրելու և այլ գործողություններ կատարելու համար միացեք Wi-Fi ցանցի կամ օգտագործեք բջջային ինտերնետը</string>
+    <string name="network_description_text_esim">Ձեր eSIM քարտը կարգավորելու համար միացեք Wi-Fi-ի</string>
+    <string name="network_no_connection_description">Դուք պետք է միացած լինեք Wi-Fi-ին կամ բջջային ցանցի՝ ձեր տվյալները պատճենելու համար։\n\n      Ձեր բջջային ցանցը կարող եք ակտիվացնել Կարգավորումներում։</string>
+    <string name="network_see_all_wifi">Տեսնել բոլոր Wi-Fi ցանցերը</string>
+    <string name="network_title">Միացեք Wi-Fi-ին</string>
+    <string name="network_title_auto_connect">Միացում Wi-Fi-ին…</string>
+    <string name="network_use_cellular_carrier">Միանալ Wi-Fi ցանցին ավելի ուշ</string>
+    <string name="sim_ready_message_carrier_app">Ներբեռնեք %2$s-ի հավելվածը՝ %1$s հեռախոսահամարի ակտիվացումն ավարտելու համար: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Հեռախոսահամարի ակտիվացումն ավարտելու համար ներբեռնեք %1$s-ի հավելվածը: Այժմ ավարտեք հեռախոսի կարգավորումը։</string>
+    <string name="survey_email_address">Էլ․ հասցե</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Հեռախոսը միացված չէ Wi-Fi ցանցին։ Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք {0} էջ։}TABLET{Պլանշետը միացված չէ Wi-Fi ցանցին։ Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք {0} էջ։}other{Սարքը միացված չէ Wi-Fi ցանցին։ Լրացուցիչ տեղեկությունների համար դիտարկիչով այցելեք {0} էջ։}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Միացեք Wi-Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր հեռախոսը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։\n      }TABLET{Միացեք ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր պլանշետը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։\n      }other{Միացեք ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր սարքը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Միացեք Wi-Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր հեռախոսը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ներբեռնել SIM քարտ,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։\n      }TABLET{Միացեք Wi-Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր պլանշետը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ներբեռնել SIM քարտ,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։\n      }other{Միացեք Wi-Fi կամ բջջային ցանցի, որպեսզի կարողանաք արագ կարգավորել ձեր սարքը։\n\n      Առանց ցանցին միանալու դուք չեք կարողանա՝\n      մուտք գործել ձեր Google հաշիվ,\n      վերականգնել հավելվածները և տվյալները,\n      ներբեռնել SIM քարտ,\n      ստանալ ծրագրային թարմացումներ,\n      ավտոմատ կարգավորել ամսաթիվն ու ժամը։}}</string>
+    <string name="wifi_scanning">Որոնվում են Wi-Fi ցանցեր…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Կարգավորման ընթացքում ձեր հեռախոսը կօգտագործի բջջային ինտերնետը։ Թրաֆիկի օգտագործման համար ձեզանից կարող է գումար գանձվել։ Ավելորդ վճարներից խուսափելու համար միացեք Wi-Fi ցանցին։}TABLET{Կարգավորման ընթացքում ձեր պլանշետը կօգտագործի բջջային ինտերնետը։ Թրաֆիկի օգտագործման համար ձեզանից կարող է գումար գանձվել։ Ավելորդ վճարներից խուսափելու համար միացեք Wi-Fi ցանցին։}other{Կարգավորման ընթացքում ձեր սարքը կօգտագործի բջջային ինտերնետը։ Թրաֆիկի օգտագործման համար ձեզանից կարող է գումար գանձվել։ Ավելորդ վճարներից խուսափելու համար միացեք Wi-Fi ցանցին։}}</string>
+    <string name="wifi_title">Միացեք Wi-Fi-ին</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi-ն ավտոմատ չի միանա</string>
+</resources>

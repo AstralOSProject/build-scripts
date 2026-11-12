@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">WLAN 连接已断开。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为一格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为三格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为两格。</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{您的电子邮件、通讯录、日历活动等内容将同步到此手机。您也可以开始从 Google Play 下载应用、音乐和游戏。\n\n      日后，您可以依次转到“设置”>“账号”来添加及移除账号。}TABLET{您的电子邮件、通讯录、日历活动等内容将同步到此平板电脑。您也可以开始从 Google Play 下载应用、音乐和游戏。\n\n      日后，您可以依次转到“设置”>“账号”来添加及移除账号。}other{您的电子邮件、通讯录、日历活动等内容将同步到此设备。您也可以开始从 Google Play 下载应用、音乐和游戏。\n\n      日后，您可以依次转到“设置”>“账号”来添加及移除账号。}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{请重启您的手机并重试，或者连接到 WLAN 网络进行设置。如果您仍然无法激活移动数据服务，请与您的运营商联系。}TABLET{请重启您的平板电脑并重试，或者连接到 WLAN 网络进行设置。如果您仍然无法激活移动数据服务，请与您的运营商联系。}other{请重启您的设备并重试，或者连接到 WLAN 网络进行设置。如果您仍然无法激活移动数据服务，请与您的运营商联系。}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">连接到 WLAN 网络</string>
+    <string name="deferred_welcome_airplane_mode_message">您需要连接到网络才能完成最后几个设置步骤。\n\n      开启飞行模式后，WLAN、移动网络和蓝牙都会断开连接。</string>
+    <string name="dialog_connect_to_wifi_button_label">连接到 WLAN 网络</string>
+    <string name="network_connection_dialog_text">如需下载应用及其他内容，请连接到 WLAN 网络或使用移动数据网络</string>
+    <string name="network_description_text_esim">若要设置您的 eSIM 卡，请连接到 WLAN</string>
+    <string name="network_no_connection_description">您需要连接到 WLAN 网络或移动网络才能复制您的数据。\n\n      您可在“设置”页面中启用所需的移动网络。</string>
+    <string name="network_see_all_wifi">查看所有 WLAN 网络</string>
+    <string name="network_title">连接到 WLAN 网络</string>
+    <string name="network_title_auto_connect">正在连接到 WLAN 网络…</string>
+    <string name="network_use_cellular_carrier">稍后连接到 WLAN 网络</string>
+    <string name="sim_ready_message_carrier_app">要完成 %1$s 的激活程序，您需要下载%2$s应用。现在请完成手机的设置。</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">要完成号码的激活程序，您需要下载“%1$s”应用。现在请完成手机的设置。</string>
+    <string name="survey_email_address">电子邮件地址</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{您的手机未连接到 WLAN 网络。如要立即查看此信息，请使用网络浏览器访问 {0}。}TABLET{您的平板电脑未连接到 WLAN 网络。如要立即查看此信息，请使用网络浏览器访问 {0}。}other{您的设备未连接到 WLAN 网络。如要立即查看此信息，请使用网络浏览器访问 {0}。}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{连接到 WLAN 或移动网络有助于您快速设置手机。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      获取软件更新\n      让系统自动设置时间和日期\n      }TABLET{连接到网络有助于您快速设置平板电脑。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      获取软件更新\n      让系统自动设置时间和日期\n      }other{连接到网络有助于您快速设置设备。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      获取软件更新\n      让系统自动设置时间和日期}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{连接到 WLAN 或移动网络有助于您快速设置手机。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      下载 SIM 卡\n      获取软件更新\n      让系统自动设置时间和日期\n      }TABLET{连接到网络有助于您快速设置平板电脑。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      下载 SIM 卡\n      获取软件更新\n      让系统自动设置时间和日期\n      }other{连接到网络有助于您快速设置设备。\n\n      如果您没有连接到网络，则无法：\n      登录 Google 账号\n      恢复应用和数据\n      下载 SIM 卡\n      获取软件更新\n      让系统自动设置时间和日期}}</string>
+    <string name="wifi_scanning">正在搜索 WLAN 网络…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{您的手机在设置过程中将用到移动网络，而您可能需要支付相应的数据流量费用。若想避免可能产生的数据流量费用，请连接到 WLAN 网络。}TABLET{您的平板电脑在设置过程中将用到移动网络，而您可能需要支付相应的数据流量费用。若想避免可能产生的数据流量费用，请连接到 WLAN 网络。}other{您的设备在设置过程中将用到移动网络，而您可能需要支付相应的数据流量费用。若想避免可能产生的数据流量费用，请连接到 WLAN 网络。}}</string>
+    <string name="wifi_title">连接到 WLAN 网络</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WLAN 暂时无法自动连接</string>
+</resources>

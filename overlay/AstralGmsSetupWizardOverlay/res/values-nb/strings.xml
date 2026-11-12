@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wifi er frakoblet.</string>
+    <string name="accessibility_wifi_one_bar">Wifi-signalet har én stolpe.</string>
+    <string name="accessibility_wifi_signal_full">Wifi-signalet er ved full styrke.</string>
+    <string name="accessibility_wifi_three_bars">Wifi-signalet har tre stolper.</string>
+    <string name="accessibility_wifi_two_bars">Wifi-signalet har to stolper.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{E-postadressen din, kontaktene dine, kalenderaktivitetene dine og andre ting synkroniseres til denne telefonen. Du kan også laste ned apper, musikk og spill fra Google Play.\n\n      Du kan legge til og fjerne kontoer senere ved å gå til Innstillinger > Kontoer.}TABLET{E-postadressen din, kontaktene dine, kalenderaktivitetene dine og andre ting synkroniseres til dette nettbrettet. Du kan også laste ned apper, musikk og spill fra Google Play.\n\n      Du kan legge til og fjerne kontoer senere ved å gå til Innstillinger > Kontoer.}other{E-postadressen din, kontaktene dine, kalenderaktivitetene dine og andre ting synkroniseres til denne enheten. Du kan også laste ned apper, musikk og spill fra Google Play.\n\n      Du kan legge til og fjerne kontoer senere ved å gå til Innstillinger > Kontoer.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Start telefonen på nytt og prøv igjen, eller koble til wifi for konfigurering. Ta kontakt med operatøren din hvis du fremdeles har problemer med å aktivere mobildata.}TABLET{Start nettbrettet på nytt og prøv igjen, eller koble til wifi for konfigurering. Kontakt operatøren din hvis du fortsatt har problemer med å aktivere mobildata.}other{Start enheten på nytt og prøv igjen, eller koble til wifi for konfigurering. Ta kontakt med operatøren din hvis du fremdeles har problemer med å aktivere mobildata.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Koble til wifi</string>
+    <string name="deferred_welcome_airplane_mode_message">Du må være tilkoblet for å fullføre de siste konfigurasjonstrinnene.\n\n      Når flymodus er på, er wifi, mobilnettverk og Bluetooth frakoblet.</string>
+    <string name="dialog_connect_to_wifi_button_label">Koble til Wifi</string>
+    <string name="network_connection_dialog_text">For å laste ned apper med mer, koble til et wifi-nettverk eller bruk mobildata</string>
+    <string name="network_description_text_esim">For å konfigurere eSIM-kortet, koble til wifi</string>
+    <string name="network_no_connection_description">Du må være koblet til et wifi- eller mobilnettverk for å kopiere dataene dine.\n\n      Du kan aktivere mobilnettverket i innstillingene.</string>
+    <string name="network_see_all_wifi">Se alle wifi-nettverk</string>
+    <string name="network_title">Koble til wifi</string>
+    <string name="network_title_auto_connect">Kobler til wifi …</string>
+    <string name="network_use_cellular_carrier">Koble til wifi senere</string>
+    <string name="sim_ready_message_carrier_app">For å fullføre aktiveringen av %1$s må du laste ned %2$s-appen. Inntil videre kan vi fullføre konfigureringen av telefonen din.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">For å fullføre aktiveringen av nummeret ditt må du laste ned %1$s-appen. Inntil videre kan vi fullføre konfigureringen av telefonen din.</string>
+    <string name="survey_email_address">E-postadresse</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefonen er ikke koblet til noe Wifi-nettverk. For å se denne informasjonen nå, gå til {0} i en nettleser.}TABLET{Nettbrettet er ikke koblet til noe Wifi-nettverk. For å se denne informasjonen nå, gå til {0} i en nettleser.}other{Enheten er ikke koblet til noe Wifi-nettverk. For å se denne informasjonen nå, gå til {0} i en nettleser.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Når du kobler til et wifi- eller mobilnettverk, går det raskt å konfigurere telefonen.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk\n      }TABLET{Når du kobler til et nettverk, går det raskt å konfigurere nettbrettet.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk\n      }other{Når du kobler til et nettverk, går det raskt å konfigurere enheten.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Når du kobler til et Wi-Fi- eller mobilnettverk, går det raskt å konfigurere telefonen.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      laste ned et SIM-kort\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk\n      }TABLET{Når du kobler til et nettverk, går det raskt å konfigurere nettbrettet.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      laste ned et SIM-kort\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk\n      }other{Når du kobler til et nettverk, går det raskt å konfigurere enheten.\n\n      Hvis du ikke gjør det, kan du ikke\n      logge på Google-kontoen din\n      gjenopprette apper og data\n      laste ned et SIM-kort\n      få programvareoppdateringer\n      konfigurere klokkeslett og dato automatisk}}</string>
+    <string name="wifi_scanning">Søker etter wifi-nettverk …</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefonen bruker mobilnettverket under konfigureringen, og du kan bli belastet for denne databruken. For å unngå mulige belastninger, koble til wifi.}TABLET{Nettbrettet bruker mobilnettverket under konfigureringen, og du kan bli belastet for denne databruken. For å unngå mulige belastninger, koble til wifi.}other{Enheten bruker mobilnettverket under konfigureringen, og du kan bli belastet for denne databruken. For å unngå mulige belastninger, koble til wifi.}}</string>
+    <string name="wifi_title">Koble til wifi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wifi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wifi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wifi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wifi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wifi kobles ikke til automatisk inntil videre</string>
+</resources>

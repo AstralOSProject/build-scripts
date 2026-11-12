@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi від\'єднано.</string>
+    <string name="accessibility_wifi_one_bar">Одна смужка сигналу Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Максимальний сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Три смужки сигналу Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Дві смужки сигналу Wi-Fi.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Ваші електронні листи, контакти, події календаря й інші дані синхронізуватимуться з цим телефоном. Ви також можете завантажувати додатки, музику й ігри з Google Play.\n\n      Щоб пізніше додати чи вилучити облікові записи, відкрийте \"Налаштування\" > \"Облікові записи\".}TABLET{Ваші електронні листи, контакти, події календаря й інші дані синхронізуватимуться з цим планшетом. Ви також можете завантажувати додатки, музику й ігри з Google Play.\n\n      Щоб пізніше додати чи вилучити облікові записи, відкрийте \"Налаштування\" > \"Облікові записи\".}other{Ваші електронні листи, контакти, події календаря й інші дані синхронізуватимуться з цим пристроєм. Ви також можете завантажувати додатки, музику й ігри з Google Play.\n\n      Щоб пізніше додати чи вилучити облікові записи, відкрийте \"Налаштування\" > \"Облікові записи\".}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Перезавантажте телефон і повторіть спробу або підключіть його до мережі Wi-Fi, щоб налаштувати сервіс. Якщо вам усе одно не вдається ввімкнути мобільний Інтернет, зв’яжіться зі своїм оператором.}TABLET{Перезавантажте планшет і повторіть спробу або підключіть його до мережі Wi-Fi, щоб налаштувати сервіс. Якщо вам усе одно не вдається ввімкнути мобільний Інтернет, зв’яжіться зі своїм оператором.}other{Перезавантажте пристрій і повторіть спробу або підключіть його до мережі Wi-Fi, щоб налаштувати сервіс. Якщо вам усе одно не вдається ввімкнути мобільний Інтернет, зв’яжіться зі своїм оператором.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Підключитися до Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Щоб завершити кілька останніх кроків налаштування, потрібне інтернет-з’єднання.\n\n      У режимі польоту Wi-Fi, мобільна мережа та Bluetooth не працюють.</string>
+    <string name="dialog_connect_to_wifi_button_label">Підключитися до Wi-Fi</string>
+    <string name="network_connection_dialog_text">Щоб продовжити завантаження додатків та інших файлів, підключіться до мережі Wi-Fi або мобільного Інтернету</string>
+    <string name="network_description_text_esim">Щоб налаштувати eSIM-карту, підключіться до мережі Wi-Fi</string>
+    <string name="network_no_connection_description">Щоб копіювати дані, пристрій потрібно під’єднати до Wi-Fi або мобільної мережі.\n\n      Мобільну мережу можна ввімкнути в налаштуваннях.</string>
+    <string name="network_see_all_wifi">Переглянути всі мережі Wi-Fi</string>
+    <string name="network_title">Під’єднатися до Wi-Fi</string>
+    <string name="network_title_auto_connect">Підключення до Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Під\'єднатися до Wi-Fi пізніше</string>
+    <string name="sim_ready_message_carrier_app">Щоб активувати номер %1$s, потрібно завантажити додаток оператора %2$s. Наразі завершімо налаштування телефона.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Щоб активувати номер, потрібно завантажити додаток оператора %1$s. Наразі завершімо налаштування телефона.</string>
+    <string name="survey_email_address">Електронна адреса</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Ваш телефон не підключено до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть у веб-переглядачі на сторінку {0}.}TABLET{Ваш планшет не підключено до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть у веб-переглядач на сторінку {0}.}other{Ваш пристрій не підключено до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть у веб-переглядачі на сторінку {0}.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Підключившись до Wi-Fi або мобільної мережі, ви зможете швидко налаштувати телефон.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.\n      }TABLET{Підключившись до мережі, ви зможете швидко налаштувати планшет.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.\n      }other{Підключившись до мережі, ви зможете швидко налаштувати пристрій.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Підключившись до Wi-Fi або мобільної мережі, ви зможете швидко налаштувати телефон.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити SIM-карту;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.\n      }TABLET{Підключившись до мережі, ви зможете швидко налаштувати планшет.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити SIM-карту;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.\n      }other{Підключившись до мережі, ви зможете швидко налаштувати пристрій.\n\n      Без з’єднання ви не зможете:\n      увійти в обліковий запис Google;\n      відновити додатки й дані;\n      завантажити SIM-карту;\n      завантажити оновлення програмного забезпечення;\n      автоматично налаштувати час і дату.}}</string>
+    <string name="wifi_scanning">Пошук мереж Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Під час налаштування телефон використовуватиме мобільну мережу, за що з вас може стягуватися плата. Щоб уникнути цього, підключіть його до Wi-Fi.}TABLET{Під час налаштування планшет використовуватиме мобільну мережу, за що з вас може стягуватися плата. Щоб уникнути цього, підключіть його до Wi-Fi.}other{Під час налаштування пристрій використовуватиме мобільну мережу, за що з вас може стягуватися плата. Щоб уникнути цього, підключіть його до Wi-Fi.}}</string>
+    <string name="wifi_title">Під’єднання до Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Пристрій не підключатиметься до Wi-Fi автоматично</string>
+</resources>

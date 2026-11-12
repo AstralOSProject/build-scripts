@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wifi bağlantısı kəsildi.</string>
+    <string name="accessibility_wifi_one_bar">Wifi bir xətdir.</string>
+    <string name="accessibility_wifi_signal_full">Wifi siqnalı tamdır.</string>
+    <string name="accessibility_wifi_three_bars">Wifi üç xətdir.</string>
+    <string name="accessibility_wifi_two_bars">Wifi iki xətdir.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{E-məktub, kontakt, təqvim hadisələri və s. bu telefonla sinxronizasiya ediləcək. Həmçinin Google Play\'dən tətbiq, musiqi və oyunlar endirməyə başalaya bilərsiniz.\n\n      Ayarlar > Hesablar bölməsinə keçməklə hesabları sonradan əlavə edə və silə bilərsiniz.}TABLET{E-məktub, kontakt, təqvim tədbirləri və s. bu planşetlə sinxronizasiya ediləcək. Həmçinin Google Play\'dən tətbiq, musiqi və oyunlar endirməyə başlaya bilərsiniz.\n\n      Ayarlar > Hesablar bölməsinə keçməklə hesabları sonradan əlavə edə və silə bilərsiniz.}other{E-məktub, kontakt, təqvim hadisələri və s. bu cihazla sinxronizasiya ediləcək. Həmçinin Google Play\'dən tətbiq, musiqi və oyunlar endirməyə başlaya bilərsiniz.\n\n      Ayarlar > Hesablar bölməsinə keçməklə hesabları sonradan əlavə edə və silə bilərsiniz.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Telefonu yenidən başladıb cəhd edin və ya ayarlamaq üçün yenidən Wi-Fi şəbəkəsinə qoşulun. Mobil datanı aktiv etməklə bağlı hələ də probleminiz varsa, operator ilə əlaqə saxlayın.}TABLET{Planşeti yenidən başladıb cəhd edin və ya ayarlamaq üçün yenidən Wi-Fi şəbəkəsinə qoşulun. Mobil datanı aktiv etməklə bağlı hələ də probleminiz varsa, operator ilə əlaqə saxlayın.}other{Cihazı yenidən başladın və ayarlanma üçün yenidən Wi-Fi şəbəkəsinə qoşulmağa cəhd edin. Mobil datanı aktiv etməklə bağlı hələ də probleminiz varsa, operator ilə əlaqə saxlayın.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Wi-Fi\'a qoşulun</string>
+    <string name="deferred_welcome_airplane_mode_message">Son quraşdırma mərhələlərini tamamlamaq üçün internet bağlantısı tələb olunur.\n\n      \"Təyyarə\" rejimi aktiv olduqda, Wi-Fi, mobil şəbəkə və Bluetooth bağlantısı olmur.</string>
+    <string name="dialog_connect_to_wifi_button_label">Wi-Fi\'a qoşulun</string>
+    <string name="network_connection_dialog_text">Tətbiqlər və daha çoxunu əldə etmək üçün Wi-Fi şəbəkəsinə qoşulun və ya mobil datadan istifadə edin</string>
+    <string name="network_description_text_esim">eSIM ayarlamaq üçün Wi-Fi-a qoşulun</string>
+    <string name="network_no_connection_description">Datanı kopyalamaq üçün Wi-Fi və ya mobil şəbəkəyə qoşulmalısınız.\n\n      Mobil şəbəkəni Ayarlarda aktivləşdirə bilərsiniz.</string>
+    <string name="network_see_all_wifi">Bütün Wi-Fi şəbəkələrini görün</string>
+    <string name="network_title">Wi-F\'ya qoşulun</string>
+    <string name="network_title_auto_connect">Wi-Fi\'a qoşulur…</string>
+    <string name="network_use_cellular_carrier">Wi-Fi\'a sonra qoşulun</string>
+    <string name="sim_ready_message_carrier_app">%1$s nömrəsinin aktiv edilməsini tamamlamaq üçün %2$s tətbiqini endirməlisiniz. İndi isə telefonu quraşdırmağı tamamlayaq.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Nömrənin aktiv edilməsini tamamlamaq üçün %1$s tətbiqini endirməlisiniz. İndi isə telefonu quraşdırmağı tamamlayaq.</string>
+    <string name="survey_email_address">E-poçt ünvanı</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefon Wi-Fi şəbəkəsinə qoşulu deyil. Bu məlumata indi baxmaq üçün veb brauzerdən {0} ünvanına daxil olun.}TABLET{Planşet Wi-Fi şəbəkəsinə qoşulu deyil. Bu məlumata indi baxmaq üçün veb brauzerdən {0} ünvanına daxil olun.}other{Cihaz Wi-Fi şəbəkəsinə qoşulu deyil. Bu məlumata indi baxmaq üçün veb brauzerdən {0} ünvanına daxil olun.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Wi-Fi və ya mobil şəbəkəyə qoşulmaqla telefonu cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq\n      }TABLET{Şəbəkəyə qoşulmaqla planşeti cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq\n      }other{Şəbəkəyə qoşulmaqla cihazı cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Wi-Fi və ya mobil şəbəkəyə qoşulmaqla telefonu cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      SIM endirmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq\n      }TABLET{Şəbəkəyə qoşulmaqla planşeti cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      SIM endirmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq\n      }other{Şəbəkəyə qoşulmaqla cihazı cəld ayarlamaq olar.\n\n      Bağlantı olmasa, bunları edə bilməzsiniz:\n      Google Hesabına daxil olmaq\n      Tətbiq və datanı bərpa etmək\n      SIM endirmək\n      Proqram təminatı güncəllənmələri əldə etmək\n      Vaxt və tarixi avtomatik ayarlamaq}}</string>
+    <string name="wifi_scanning">WiFi şəbəkəsi axtarılır...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Ayarlama zamanı mobil internet istifadə ediləcək və buna görə ödəniş çıxılacaq. Pul israf etməmək üçün Wi-Fi şəbəkəsinə qoşulun.}TABLET{Ayarlama zamanı mobil internet istifadə ediləcək və buna görə ödəniş çıxılacaq. Pul israf etməmək üçün Wi-Fi şəbəkəsinə qoşulun.}other{Ayarlama zamanı mobil internet istifadə ediləcək və buna görə ödəniş çıxılacaq. Pul israf etməmək üçün Wi-Fi şəbəkəsinə qoşulun.}}</string>
+    <string name="wifi_title">Wi-F\'ya qoşulun</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Dəst-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi hələlik avtomatik qoşulmayacaq</string>
+</resources>

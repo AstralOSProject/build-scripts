@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wifi disconnected.</string>
+    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
+    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
+    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
+    <string name="account_exists_info">{DEVICE_TYPE, select, PHONE {Your email, contacts, calendar events, and more will sync to this phone. You’re also ready to start downloading apps, music, and games from Google Play.\n\n      You can add and remove accounts later by going to Settings > Accounts.} TABLET {Your email, contacts, calendar events, and more will sync to this tablet. You’re also ready to start downloading apps, music, and games from Google Play.\n\n      You can add and remove accounts later by going to Settings > Accounts.} other {Your email, contacts, calendar events, and more will sync to this device. You’re also ready to start downloading apps, music, and games from Google Play.\n\n      You can add and remove accounts later by going to Settings > Accounts.} }</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE, select, PHONE {Restart your phone and try again, or connect to Wi-Fi for setup. If you still have trouble activating mobile data, contact your carrier.} TABLET {Restart your tablet and try again, or connect to Wi-Fi for setup. If you still have trouble activating mobile data, contact your carrier.} other {Restart your device and try again, or connect to Wi-Fi for setup. If you still have trouble activating mobile data, contact your carrier.} }</string>
+    <string name="connect_to_a_network_btn_wifi_text">Connect to Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">You need a connection to finish the last few setup steps.\n\n      When airplane mode is on, Wi-Fi, mobile networks, and Bluetooth are disconnected.</string>
+    <string name="dialog_connect_to_wifi_button_label">Connect to Wi-Fi</string>
+    <string name="network_connection_dialog_text">To get apps and more, connect to a Wi-Fi network or use mobile data</string>
+    <string name="network_description_text_esim">To set up your eSIM, connect to Wi-Fi</string>
+    <string name="network_no_connection_description">You need to be connected to Wi-Fi or a mobile network to copy your data.\n\n      You can activate your mobile network in Settings.</string>
+    <string name="network_see_all_wifi">See all Wi-Fi networks</string>
+    <string name="network_title">Connect to Wi-Fi</string>
+    <string name="network_title_auto_connect">Connecting to Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Connect to Wi-Fi later</string>
+    <string name="sim_ready_message_carrier_app">To finish activating %1$s, you’ll need to download the %2$s app. For now, let’s finish setting up your phone.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">To finish activating your number, you’ll need to download the %1$s app. For now, let’s finish setting up your phone.</string>
+    <string name="survey_email_address">Email address</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE, select, PHONE {Your phone isn’t connected to a Wi-Fi network. To view this information now, visit {0} with a web browser.} TABLET {Your tablet isn’t connected to a Wi-Fi network. To view this information now, visit {0} with a web browser.} other {Your device isn’t connected to a Wi-Fi network. To view this information now, visit {0} with a web browser.} }</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE, select, PHONE {Connecting to a Wi-Fi or mobile network helps you quickly set up your phone.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Get software updates\n      Automatically set up time and date\n      } TABLET {Connecting to a network helps you quickly set up your tablet.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Get software updates\n      Automatically set up time and date\n      } other {Connecting to a network helps you quickly set up your device.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Get software updates\n      Automatically set up time and date} }</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE, select, PHONE {Connecting to a Wi-Fi or mobile network helps you quickly set up your phone.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Download a SIM\n      Get software updates\n      Automatically set up time and date\n      } TABLET {Connecting to a network helps you quickly set up your tablet.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Download a SIM\n      Get software updates\n      Automatically set up time and date\n      } other {Connecting to a network helps you quickly set up your device.\n\n      Without a connection, you can’t:\n      Sign in to your Google Account\n      Restore apps &amp; data\n      Download a SIM\n      Get software updates\n      Automatically set up time and date} }</string>
+    <string name="wifi_scanning">Searching for Wi-Fi networks…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE, select, PHONE {Your phone will use the mobile network during setup, and you may be charged for this data usage. To avoid possible charges, connect to Wi-Fi.} TABLET {Your tablet will use the mobile network during setup, and you may be charged for this data usage. To avoid possible charges, connect to Wi-Fi.} other {Your device will use the mobile network during setup, and you may be charged for this data usage. To avoid possible charges, connect to Wi-Fi.} }</string>
+    <string name="wifi_title">Connect to Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi won’t auto-connect for now</string>
+</resources>

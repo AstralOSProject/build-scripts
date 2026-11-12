@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">WiFi веза је прекинута.</string>
+    <string name="accessibility_wifi_one_bar">WiFi сигнал има једну црту.</string>
+    <string name="accessibility_wifi_signal_full">WiFi сигнал је најјачи.</string>
+    <string name="accessibility_wifi_three_bars">WiFi сигнал има три црте.</string>
+    <string name="accessibility_wifi_two_bars">WiFi сигнал има две црте.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Имејл, контакти, догађаји из календара и друге ставке синхронизоваће се са овим телефоном. Спремни сте и да почнете да преузимате апликације, музику и игре са Google Play-а.\n\n      Налоге можете да додајете и уклањате касније у одељку Подешавања > Налози.}TABLET{Имејл, контакти, догађаји из календара и друге ставке синхронизоваће се са овим таблетом. Спремни сте и да почнете да преузимате апликације, музику и игре са Google Play-а.\n\n      Налоге можете да додајете и уклањате касније у одељку Подешавања > Налози.}other{Имејл, контакти, догађаји из календара и друге ставке синхронизоваће се са овим уређајем. Спремни сте и да почнете да преузимате апликације, музику и игре са Google Play-а.\n\n      Налоге можете да додајете и уклањате касније у одељку Подешавања > Налози.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Рестартујте телефон и пробајте поново или се повежите на WiFi да бисте обавили подешавање. Ако и даље имате проблема са активирањем мобилних података, контактирајте мобилног оператера.}TABLET{Рестартујте таблет и пробајте поново или се повежите на WiFi да бисте обавили подешавање. Ако и даље имате проблема са активирањем мобилних података, контактирајте мобилног оператера.}other{Рестартујте уређај и пробајте поново или се повежите на WiFi да бисте обавили подешавање. Ако и даље имате проблема са активирањем мобилних података, контактирајте мобилног оператера.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Повежи се на WiFi</string>
+    <string name="deferred_welcome_airplane_mode_message">Потребна вам је веза да бисте довршили неколико последњих корака за подешавање.\n\n      Када је режим рада у авиону укључен, веза са Wi-Fi-јем, мобилним мрежама и Bluetooth-ом је прекинута.</string>
+    <string name="dialog_connect_to_wifi_button_label">Повежи се на WiFi</string>
+    <string name="network_connection_dialog_text">Да бисте преузели апликације и други садржај, повежите се на WiFi мрежу или користите мобилне податке</string>
+    <string name="network_description_text_esim">Да бисте подесили eSIM, повежите се на WiFi</string>
+    <string name="network_no_connection_description">Треба да будете повезани са Wi-Fi или мобилном мрежом да бисте копирали податке.\n\n      Мобилну мрежу можете да активирате у Подешавањима.</string>
+    <string name="network_see_all_wifi">Прикажи све Wi-Fi мреже</string>
+    <string name="network_title">Повежите се са WiFi мрежом</string>
+    <string name="network_title_auto_connect">Повезује се на WiFi…</string>
+    <string name="network_use_cellular_carrier">Повежи са Wi-Fi мрежом касније</string>
+    <string name="sim_ready_message_carrier_app">Да бисте довршили активирање броја %1$s, треба да преузмете%2$s апликацију. Хајде да за сад завршимо подешавање телефона.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Да бисте довршили активирање броја, треба да преузмете %1$s апликацију. Хајде да за сад завршимо подешавање телефона.</string>
+    <string name="survey_email_address">Имејл адреса</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Телефон није повезан на WiFi. Да бисте одмах прегледали ове информације, посетите {0} у веб-прегледачу.}TABLET{Таблет није повезан на WiFi. Да бисте одмах прегледали ове информације, посетите {0} у веб-прегледачу.}other{Уређај није повезан на WiFi. Да бисте одмах прегледали ове информације, посетите {0} у веб-прегледачу.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Ако се повежете на WiFi или мобилну мрежу, можете брзо да подесите телефон.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и датум\n      }TABLET{Ако се повежете на мрежу, можете брзо да подесите таблет.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и датум\n      }other{Ако се повежете на мрежу, можете брзо да подесите уређај.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и датум}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Ако се повежете на WiFi или мобилну мрежу, можете брзо да подесите телефон.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да преузмете SIM\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и дату\n      }TABLET{Ако се повежете на мрежу, можете брзо да подесите таблет.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да преузмете SIM\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и дату\n      }other{Ако се повежете на мрежу, можете брзо да подесите уређај.\n\n      Ако не успоставите везу, не можете:\n      да се пријављујете на Google налог\n      да враћате апликације и податке\n      да преузмете SIM\n      да добијате ажурирања софтвера\n      да аутоматски подешавате време и дату}}</string>
+    <string name="wifi_scanning">Траже се WiFi мреже...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Телефон ће користити мобилну мрежу током подешавања и та потрошња података ће вам можда бити наплаћена. Да бисте избегли могуће трошкове, повежите се на WiFi.}TABLET{Таблет ће користити мобилну мрежу током подешавања и та потрошња података ће вам можда бити наплаћена. Да бисте избегли могуће трошкове, повежите се на WiFi.}other{Уређај ће користити мобилну мрежу током подешавања и та потрошња података ће вам можда бити наплаћена. Да бисте избегли могуће трошкове, повежите се на WiFi.}}</string>
+    <string name="wifi_title">Повежите се са WiFi мрежом</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">WiFi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">WiFi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">WiFi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">WiFi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WiFi тренутно не може да се аутоматски повеже</string>
+</resources>

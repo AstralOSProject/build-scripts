@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi は接続されていません。</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi は電波レベル 1 です。</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi の電波はフルです。</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi は電波レベル 3 です。</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi は電波レベル 2 です。</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{メール、連絡先、カレンダーの予定などがこのスマートフォンに同期されます。Google Play からのアプリ、音楽、ゲームのダウンロードも開始できるようになっています。\n\n      アカウントはいつでも [設定] > [アカウント] で追加したり削除したりできます。}TABLET{メール、連絡先、カレンダーの予定などがこのタブレットに同期されます。Google Play からのアプリ、音楽、ゲームのダウンロードも開始できるようになっています。\n\n      アカウントはいつでも [設定] > [アカウント] で追加したり削除したりできます。}other{メール、連絡先、カレンダーの予定などがこのデバイスに同期されます。Google Play からのアプリ、音楽、ゲームのダウンロードも開始できるようになっています。\n\n      アカウントはいつでも [設定] > [アカウント] で追加したり削除したりできます。}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{スマートフォンを再起動してからもう一度お試しいただくか、Wi-Fi に接続してセットアップしてください。モバイルデータの有効化で引き続き問題が発生する場合は、携帯通信会社にお問い合わせください。}TABLET{タブレットを再起動してからもう一度お試しいただくか、Wi-Fi に接続してセットアップしてください。モバイルデータの有効化で引き続き問題が発生する場合は、携帯通信会社にお問い合わせください。}other{デバイスを再起動してからもう一度お試しいただくか、Wi-Fi に接続してセットアップしてください。モバイルデータの有効化で引き続き問題が発生する場合は、携帯通信会社にお問い合わせください。}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Wi-Fi に接続</string>
+    <string name="deferred_welcome_airplane_mode_message">セットアップ手順を完了するにはネットワーク接続が必要です。\n\n      機内モードが ON の場合、Wi-Fi、モバイル ネットワーク、Bluetooth の接続は解除されます。</string>
+    <string name="dialog_connect_to_wifi_button_label">Wi-Fi に接続</string>
+    <string name="network_connection_dialog_text">アプリやその他のコンテンツを入手するには、Wi-Fi ネットワークに接続するか、モバイルデータを使用してください</string>
+    <string name="network_description_text_esim">eSIM を設定するには、Wi-Fi に接続してください</string>
+    <string name="network_no_connection_description">データをコピーするため、Wi-Fi またはモバイル ネットワークに接続する必要があります。\n\n      モバイル ネットワークは [設定] で有効にできます。</string>
+    <string name="network_see_all_wifi">すべての Wi-Fi ネットワークを表示</string>
+    <string name="network_title">Wi-Fi に接続</string>
+    <string name="network_title_auto_connect">Wi-Fi に接続中…</string>
+    <string name="network_use_cellular_carrier">後で Wi-Fi に接続</string>
+    <string name="sim_ready_message_carrier_app">電話番号（%1$s）の有効化を終了するには、%2$s のアプリをダウンロードする必要があります。ここでは、スマートフォンの設定を完了しましょう。</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">電話番号の有効化を終了するには、%1$s のアプリをダウンロードする必要があります。ここでは、スマートフォンの設定を完了しましょう。</string>
+    <string name="survey_email_address">メールアドレス</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{スマートフォンが Wi-Fi ネットワークに接続されていません。この情報を今すぐ確認するには、ウェブブラウザで {0} にアクセスしてください。}TABLET{タブレットが Wi-Fi ネットワークに接続されていません。この情報を今すぐ確認するには、ウェブブラウザで {0} にアクセスしてください。}other{デバイスが Wi-Fi ネットワークに接続されていません。この情報を表示するにはウェブブラウザで {0} にアクセスしてください。}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Wi-Fi ネットワークやモバイル ネットワークに接続すると、スマートフォンをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定\n      }TABLET{Wi-Fi ネットワークやモバイル ネットワークに接続すると、タブレットをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定\n      }other{Wi-Fi ネットワークやモバイル ネットワークに接続すると、デバイスをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Wi-Fi ネットワークやモバイル ネットワークに接続すると、スマートフォンをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      SIM のダウンロード\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定\n      }TABLET{Wi-Fi ネットワークやモバイル ネットワークに接続すると、タブレットをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      SIM のダウンロード\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定\n      }other{Wi-Fi ネットワークやモバイル ネットワークに接続すると、デバイスをすばやくセットアップできます。\n\n      接続しない場合は、次の操作ができません。\n      Google アカウントへのログイン\n      アプリやデータの復元\n      SIM のダウンロード\n      ソフトウェア アップデートの取得\n      日付と時刻の自動設定}}</string>
+    <string name="wifi_scanning">Wi-Fi ネットワークを検索しています…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{スマートフォンでセットアップ中にモバイル ネットワークが使用され、データ使用料が発生する可能性があります。料金がかからないようにするには、Wi-Fi に接続してください。}TABLET{タブレットでセットアップ中にモバイル ネットワークが使用され、データ使用料が発生する可能性があります。料金がかからないようにするには、Wi-Fi に接続してください。}other{デバイスでセットアップ中にモバイル ネットワークが使用され、データ使用料が発生する可能性があります。料金がかからないようにするには、Wi-Fi に接続してください。}}</string>
+    <string name="wifi_title">Wi-Fi に接続</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi に自動接続しません</string>
+</resources>

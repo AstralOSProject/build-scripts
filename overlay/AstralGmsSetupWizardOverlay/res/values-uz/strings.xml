@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wifi uzilgan.</string>
+    <string name="accessibility_wifi_one_bar">Wifi: bitta ustun.</string>
+    <string name="accessibility_wifi_signal_full">Wifi: signal kuchli.</string>
+    <string name="accessibility_wifi_three_bars">Wifi: uchta ustun.</string>
+    <string name="accessibility_wifi_two_bars">Wifi: ikkita ustun.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Email manzili, taqvim tadbirlari va boshqa maʼlumotlaringiz bu telefon bilan sinxronlanadi. Google Play orqali ilovalar, musiqa va oʻyinlarni yuklab olishingiz mumkin.\n\n      Hisoblarni keyinchalik Sozlamalar > Hisoblar orqali kiritish yoki olib tashlashingiz mumkin.}TABLET{Email manzili, taqvim tadbirlari va boshqa maʼlumotlaringiz bu planshet bilan sinxronlanadi. Google Play orqali ilovalar, musiqa va oʻyinlarni yuklab olishingiz mumkin.\n\n      Hisoblarni keyinchalik Sozlamalar > Hisoblar orqali kiritish yoki olib tashlashingiz mumkin.}other{Email manzili, taqvim tadbirlari va boshqa maʼlumotlaringiz bu qurilma bilan sinxronlanadi. Google Play orqali ilovalar, musiqa va oʻyinlarni yuklab olishingiz mumkin.\n\n      Hisoblarni keyinchalik Sozlamalar > Hisoblar orqali kiritish yoki olib tashlashingiz mumkin.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Telefonni oʻchirib yoqing va qaytadan urining yoki sozlash uchun Wi-Fi tarmoqqa ulaning. Shunda ham mobil internet faollashmasa, aloqa operatoringizga murojaat qiling.}TABLET{Planshetni oʻchirib yoqing va qaytadan urining yoki sozlash uchun Wi-Fi tarmoqqa ulaning. Shunda ham mobil internet faollashmasa, aloqa operatoringizga murojaat qiling.}other{Qurilmani oʻchirib yoqing va qaytadan urining yoki sozlash uchun Wi-Fi tarmoqqa ulaning. Shunda ham mobil internet faollashmasa, aloqa operatoringizga murojaat qiling.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Wi-Fi tarmoqqa ulanish</string>
+    <string name="deferred_welcome_airplane_mode_message">Sozlashni yakunlash uchun Internet zarur.\n\n      Parvoz rejimida Wi-Fi, mobil internet va Bluetooth faolsizlantiriladi.</string>
+    <string name="dialog_connect_to_wifi_button_label">Wi-Fi tarmoqqa ulanish</string>
+    <string name="network_connection_dialog_text">Ilova va boshqa narsalarni olish uchun Wi-Fi tarmoq yoki mobil internetga ulaning</string>
+    <string name="network_description_text_esim">eSIM kartani sozlash uchun Wi-Fi tarmoqqa ulaning</string>
+    <string name="network_no_connection_description">Maʼlumotlardan nusxa olish uchun Wi-Fi yoki mobil tarmoqqa ulanish lozim.\n\n      Mobil internetni Sozlamalar orqali yoqish mumkin.</string>
+    <string name="network_see_all_wifi">Barcha Wi-Fi tarmoqlar</string>
+    <string name="network_title">Wi-Fi tarmoqqa ulaning</string>
+    <string name="network_title_auto_connect">Wi-Fi tarmoqqa ulanilmoqda…</string>
+    <string name="network_use_cellular_carrier">Wi-Fi tarmoqqa keyinroq ulanish</string>
+    <string name="sim_ready_message_carrier_app">%1$s tarmogʻini faollashtirish uchun %2$s ilovasini yuklab oling. Hozir esa telefoningizni sozlashni oxiriga yetkazing.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Raqamni faollashtirish uchun %1$s ilovasini yuklab oling. Hozir esa telefoningizni sozlashni oxiriga yetkazing.</string>
+    <string name="survey_email_address">Email manzil</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefoningiz Wi-Fi tarmoqqa ulanmagan. Ushbu maʼlumotni hozir koʻrish uchun brauzer orqali {0} sahifasiga tashrif buyuring.}TABLET{Planshetingiz Wi-Fi tarmoqqa ulanmagan. Ushbu maʼlumotni hozir koʻrish uchun brauzer orqali {0} sahifasiga tashrif buyuring.}other{Qurilmangiz Wi-Fi tarmoqqa ulanmagan. Ushbu maʼlumotni hozir koʻrish uchun brauzer orqali {0} sahifasiga tashrif buyuring.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Wi-Fi yoki mobil tarmoq orqali telefonni tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash\n      }TABLET{Wi-Fi yoki mobil tarmoq orqali planshetni tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash\n      }other{Wi-Fi yoki mobil tarmoq orqali qurilmani tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Wi-Fi yoki mobil tarmoq orqali telefonni tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      SIM kartani yuklab olish\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash\n      }TABLET{Wi-Fi yoki mobil tarmoq orqali planshetni tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      SIM kartani yuklab olish\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash\n      }other{Wi-Fi yoki mobil tarmoq orqali qurilmani tezkor sozlash mumkin.\n\n      Internetsiz quyidagi amallar bajarilmaydi:\n      Google hisobingizga kirish\n      Ilova va maʼlumotlarni tiklash\n      SIM kartani yuklab olish\n      Dasturiy yangilanishlar olish\n      Sana va vaqtni avtomatik yangilash}}</string>
+    <string name="wifi_scanning">Wi-Fi tarmoqlar qidirilmoqda…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Sozlash davomida telefoningiz mobil internetdan foydalanadi va trafik sarfi uchun toʻlov olinishi mumkin. Ortiqcha sarfdan qochish uchun Wi-Fi tarmoqqa ulanish tavsiya etiladi.}TABLET{Sozlash davomida planshetingiz mobil internetdan foydalanadi va trafik sarfi uchun toʻlov olinishi mumkin. Ortiqcha sarfdan qochish uchun Wi-Fi tarmoqqa ulanish tavsiya etiladi.}other{Sozlash davomida qurilmangiz mobil internetdan foydalanadi va trafik sarfi uchun toʻlov olinishi mumkin. Ortiqcha sarfdan qochish uchun Wi-Fi tarmoqqa ulanish tavsiya etiladi.}}</string>
+    <string name="wifi_title">Wi-Fi tarmoqqa ulaning</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi hozir avtomatik ulanmaydi</string>
+</resources>

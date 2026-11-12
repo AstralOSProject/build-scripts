@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi deconectat.</string>
+    <string name="accessibility_wifi_one_bar">Semnal Wi-Fi: o bară.</string>
+    <string name="accessibility_wifi_signal_full">Semnal Wi-Fi: complet.</string>
+    <string name="accessibility_wifi_three_bars">Semnal Wi-Fi: trei bare.</string>
+    <string name="accessibility_wifi_two_bars">Semnal Wi-Fi: două bare.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{E-mailurile, agenda, evenimentele din calendar și alte date se vor sincroniza pe telefon. În plus, poți începe să descarci aplicații, muzică și jocuri de pe Google Play.\n\n      Mai târziu, poți să adaugi și să elimini conturi accesând Setări > Conturi.}TABLET{E-mailurile, agenda, evenimentele din calendar și alte date se vor sincroniza pe tabletă. În plus, poți începe să descarci aplicații, muzică și jocuri de pe Google Play.\n\n      Mai târziu, poți să adaugi și să elimini conturi accesând Setări > Conturi.}other{E-mailurile, agenda, evenimentele din calendar și alte date se vor sincroniza pe dispozitiv. În plus, poți începe să descarci aplicații, muzică și jocuri de pe Google Play.\n\n      Mai târziu, poți să adaugi și să elimini conturi accesând Setări > Conturi.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Repornește telefonul și încearcă din nou sau conectează-te la o rețea Wi-Fi pentru configurare. Dacă întâmpini în continuare probleme cu activarea datelor mobile, contactează operatorul.}TABLET{Repornește tableta și încearcă din nou sau conectează-te la o rețea Wi-Fi pentru configurare. Dacă întâmpini în continuare probleme cu activarea datelor mobile, contactează operatorul.}other{Repornește dispozitivul și încearcă din nou sau conectează-te la o rețea Wi-Fi pentru configurare. Dacă întâmpini în continuare probleme cu activarea datelor mobile, contactează operatorul.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Conectează-te la Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Ai nevoie de o conexiune pentru a finaliza ultimii pași de configurare.\n\n      Când modul avion este activat, conexiunea Wi-Fi, rețelele mobile și conexiunea Bluetooth sunt deconectate.</string>
+    <string name="dialog_connect_to_wifi_button_label">Conectează-te la Wi-Fi</string>
+    <string name="network_connection_dialog_text">Ca să descarci aplicații și nu numai, conectează-te la o rețea Wi-Fi sau folosește datele mobile</string>
+    <string name="network_description_text_esim">Conectează-te la Wi-Fi pentru a configura eSIM-ul</string>
+    <string name="network_no_connection_description">Pentru a copia datele, trebuie să te conectezi la Wi-Fi sau la o rețea mobilă.\n\n      Poți să activezi rețeaua mobilă în Setări.</string>
+    <string name="network_see_all_wifi">Vezi toate rețelele Wi-Fi</string>
+    <string name="network_title">Conectează-te la Wi-Fi</string>
+    <string name="network_title_auto_connect">Se conectează la Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Conectează-te la Wi-Fi mai târziu</string>
+    <string name="sim_ready_message_carrier_app">Pentru a finaliza activarea %1$s, trebuie să descarci aplicația %2$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Pentru a finaliza activarea numărului, trebuie să descarci aplicația %1$s. Momentan, finalizează configurarea telefonului.</string>
+    <string name="survey_email_address">Adresa de e-mail</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefonul nu este conectat la o rețea Wi-Fi. Pentru a vedea aceste informații acum, accesează {0} într-un browser web.}TABLET{Tableta nu este conectată la o rețea Wi-Fi. Pentru a vedea aceste informații acum, accesează {0} într-un browser web.}other{Dispozitivul nu este conectat la o rețea Wi-Fi. Pentru a vedea aceste informații acum, accesează {0} într-un browser web.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Dacă te conectezi la o rețea Wi-Fi sau mobilă, îți poți configura rapid telefonul.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să primești actualizări de software;\n      să configurezi automat ora și data.\n      }TABLET{Dacă te conectezi la o rețea, îți poți configura rapid tableta.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să primești actualizări de software;\n      să configurezi automat ora și data.\n      }other{Dacă te conectezi la o rețea, îți poți configura rapid dispozitivul.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să primești actualizări de software;\n      să configurezi automat ora și data.}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Dacă te conectezi la o rețea Wi-Fi sau mobilă, îți poți configura rapid telefonul.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să descarci un card SIM;\n      să descarci actualizări de software;\n      să configurezi automat ora și data.\n      }TABLET{Dacă te conectezi la o rețea, îți poți configura rapid tableta.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să descarci un card SIM;\n      să primești actualizări de software;\n      să configurezi automat ora și data.\n      }other{Dacă te conectezi la o rețea, îți poți configura rapid dispozitivul.\n\n      Fără conexiune, nu poți:\n      să te conectezi la Contul Google;\n      să restabilești aplicații și date;\n      să descarci un card SIM;\n      să primești actualizări de software;\n      să configurezi automat ora și data.}}</string>
+    <string name="wifi_scanning">Se caută rețele Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefonul va folosi rețeaua mobilă în timpul configurării și este posibil să fii taxat(ă) pentru această utilizare a datelor. Pentru a evita eventualele taxe, conectează-te la Wi-Fi.}TABLET{Tableta va folosi rețeaua mobilă în timpul configurării și este posibil să fii taxat(ă) pentru această utilizare a datelor. Pentru a evita eventualele taxe, conectează-te la Wi-Fi.}other{Dispozitivul va folosi rețeaua mobilă în timpul configurării și este posibil să fii taxat(ă) pentru această utilizare a datelor. Pentru a evita eventualele taxe, conectează-te la Wi-Fi.}}</string>
+    <string name="wifi_title">Conectează-te la Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA / WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA / WPA2 / WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Deocamdată, Wi-Fi nu se poate conecta automat</string>
+</resources>

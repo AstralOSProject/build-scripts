@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi туташуусу жок.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: бир таякча.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi: күчтүү сигнал.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: үч таякча.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: эки таякча.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Электрондук почтаңыз, байланыштар, жылнаамадагы иш-чаралар жана башкалар ушул телефон менен шайкештирилет. Google Play\'ден колдонмолорду, музыканы жана оюндарды жүктөп ала бериңиз.\n\n      Кийинчерээк Параметрлер > Аккаунттарга өтүп, аккаунттарды кошуп же алып салсаңыз болот.}TABLET{Электрондук почтаңыз, байланыштар, жылнаамадагы иш-чаралар жана башкалар ушул планшет менен шайкештирилет. Google Play\'ден колдонмолорду, музыканы жана оюндарды жүктөп ала бериңиз.\n\n      Кийинчерээк Параметрлер > Аккаунттарга өтүп, аккаунттарды кошуп же алып салсаңыз болот.}other{Электрондук почтаңыз, байланыштар, жылнаамадагы иш-чаралар жана башкалар ушул түзмөк менен шайкештирилет. Google Play\'ден колдонмолорду, музыканы жана оюндарды жүктөп ала бериңиз.\n\n      Кийинчерээк Параметрлер > Аккаунттарга өтүп, аккаунттарды кошуп же алып салсаңыз болот.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Телефонуңузду өчүрүп-күйгүзүп, кайра аракет кылыңыз же жөндөө үчүн Wi-Fi тармагына туташыңыз. Эгер мобилдик Интернетти жандыра албай жатсаңыз, байланыш операторуңузга кайрылыңыз.}TABLET{Планшетиңизди өчүрүп-күйгүзүп, кайра аракет кылыңыз же жөндөө үчүн Wi-Fi тармагына туташыңыз. Эгер мобилдик Интернетти жандыра албай жатсаңыз, байланыш операторуңузга кайрылыңыз.}other{Түзмөгүңүздү өчүрүп-күйгүзүп, кайра аракет кылыңыз же жөндөө үчүн Wi-Fi тармагына туташыңыз. Эгер мобилдик Интернетти жандыра албай жатсаңыз, байланыш операторуңузга кайрылыңыз.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Wi-Fi\'га туташуу</string>
+    <string name="deferred_welcome_airplane_mode_message">Жөндөөнүн акыркы бир нече кадамын бүтүрүү үчүн Интернетке туташуу керек.\n\n      Учак режими иштетилгенде Wi-Fi, мобилдик тармактар жана Bluetooth өчүрүлөт.</string>
+    <string name="dialog_connect_to_wifi_button_label">Wi-Fi\'га туташуу</string>
+    <string name="network_connection_dialog_text">Колдонмолорду жана башка нерселерди жүктөп алуу үчүн Wi-Fi тармагына туташып же мобилдик трафикти колдонуңуз</string>
+    <string name="network_description_text_esim">eSIM-картаны тууралоо үчүн Wi-Fi\'га туташыңыз</string>
+    <string name="network_no_connection_description">Маалыматтарды көчүрүү үчүн Wi-Fi же мобилдик тармакка туташышыңыз керек.\n\n      Мобилдик тармакты Параметрлерден иштетиңиз.</string>
+    <string name="network_see_all_wifi">Бардык Wi-Fi тармактарын көрүү</string>
+    <string name="network_title">Wi-Fi\'га туташуу</string>
+    <string name="network_title_auto_connect">Wi-Fi тармагына туташууда…</string>
+    <string name="network_use_cellular_carrier">Wi-Fi\'га кийинчерээк туташуу</string>
+    <string name="sim_ready_message_carrier_app">%1$s номерин иштетүү үчүн %2$s байланыш операторуңуздун колдонмосун жүктөп алыңыз. Аңгыча телефонуңузду тууралай бериңиз.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Телефон номериңизди иштетүү үчүн %1$s байланыш операторуңуздун колдонмосун жүктөп алыңыз. Аңгыча телефонуңузду тууралай бериңиз.</string>
+    <string name="survey_email_address">Электрондук почта дареги</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Телефонуңуз Wi-Fi тармагына туташкан эмес. Бул маалыматты азыр көрүү үчүн веб серепчиден {0} баракчасына өтүңүз.}TABLET{Планшетиңиз Wi-Fi тармагына туташкан эмес. Бул маалыматты азыр көрүү үчүн веб серепчиден {0} баракчасына өтүңүз.}other{Түзмөгүңүз Wi-Fi тармагына туташкан эмес. Бул маалыматты азыр көрүү үчүн веб серепчиден {0} баракчасына өтүңүз.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Телефонуңузду тез тууралоо үчүн Wi-Fi же мобилдик тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт\n      }TABLET{Планшетиңизди тез тууралоо үчүн тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт\n      }other{Түзмөгүңүздү тез тууралоо үчүн Wi-Fi же мобилдик тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Телефонуңузду тез тууралоо үчүн Wi-Fi\'га же мобилдик тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      SIM картадагы маалыматты жүктөп ала албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт\n      }TABLET{Планшетиңизди тез тууралоо үчүн Wi-Fi\'га же мобилдик тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      SIM картадагы маалыматты жүктөп ала албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт\n      }other{Түзмөгүңүздү тез тууралоо үчүн Wi-Fi\'га же мобилдик тармакка туташыңыз.\n\n      Эгер туташпасаңыз:\n      Google аккаунтуңузга кире албайсыз\n      Колдонмолорду жана дайын-даректерди калыбына келтире албайсыз\n      SIM картадагы маалыматты жүктөп ала албайсыз\n      Программа жаңыртууларын албайсыз\n      Убакыт менен күн автоматтык түрдө туураланбайт}}</string>
+    <string name="wifi_scanning">Wi-Fi тармактары изделүүдө…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Жөндөө учурунда телефонуңуз мобилдик тармакты колдонуп, дайын-даректердин өткөрүлүшү үчүн акы төлөп калышыңыз мүмкүн. Андыктан Wi-Fi тармагына туташыңыз.}TABLET{Жөндөө учурунда планшетиңиз мобилдик тармакты колдонуп, дайын-даректердин өткөрүлүшү үчүн акы төлөп калышыңыз мүмкүн. Андыктан Wi-Fi тармагына туташыңыз.}other{Жөндөө учурунда түзмөгүңүз мобилдик тармакты колдонуп, дайын-даректердин өткөрүлүшү үчүн акы төлөп калышыңыз мүмкүн. Андыктан Wi-Fi тармагына туташыңыз.}}</string>
+    <string name="wifi_title">Wi-Fi\'га туташуу</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi азырынча автоматтык түрдө туташпайт</string>
+</resources>

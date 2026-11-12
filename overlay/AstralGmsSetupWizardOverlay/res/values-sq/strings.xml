@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi është i shkëputur.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi ka një vijë.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi ka sinjal të plotë.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi ka tre vija.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi ka dy vija.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Email-i, kontaktet, ngjarjet e kalendarit etj. do të sinkronizohen me këtë telefon. Je gjithashtu gati të fillosh shkarkimin e aplikacioneve, muzikës dhe lojërave nga Google Play.\n\n      Mund të shtosh dhe heqësh llogaritë më vonë duke shkuar te Cilësimet > Llogaritë.}TABLET{Email-i, kontaktet, ngjarjet e kalendarit etj. do të sinkronizohen me këtë tablet. Je gjithashtu gati të fillosh shkarkimin e aplikacioneve, muzikës dhe lojërave nga Google Play.\n\n      Mund të shtosh dhe heqësh llogaritë më vonë duke shkuar te Cilësimet > Llogaritë.}other{Email-i, kontaktet, ngjarjet e kalendarit etj. do të sinkronizohen me këtë pajisje. Je gjithashtu gati të fillosh shkarkimin e aplikacioneve, muzikës dhe lojërave nga Google Play.\n\n      Mund të shtosh dhe heqësh llogaritë më vonë duke shkuar te Cilësimet > Llogaritë.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Rinise telefonin dhe provo përsëri ose lidhu me Wi-Fi për konfigurimin. Nëse ke ende probleme me aktivizimin e të dhënave celulare, kontakto me operatorin.}TABLET{Rinis tabletin dhe provo përsëri ose lidhu me Wi-Fi për konfigurimin. Nëse ke ende probleme me aktivizimin e të dhënave celulare, kontakto me operatorin.}other{Rinis pajisjen dhe provo përsëri ose lidhu me Wi-Fi për konfigurimin. Nëse ke ende probleme me aktivizimin e të dhënave celulare, kontakto me operatorin.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Lidhu me Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Të nevojitet në lidhje për të përfunduar pak hapa të fundit të konfigurimit.\n\n      Kur është aktiv modaliteti i aeroplanit, shkëputen Wi-Fi, rrjetet celulare dhe Bluetooth-i.</string>
+    <string name="dialog_connect_to_wifi_button_label">Lidhu me Wi-Fi</string>
+    <string name="network_connection_dialog_text">Për të marrë aplikacione etj., lidhu me një rrjet Wi-Fi ose përdor të dhënat celulare</string>
+    <string name="network_description_text_esim">Për të konfiguruar kartën tënde eSIM, lidhu me Wi-Fi</string>
+    <string name="network_no_connection_description">Duhet të jesh i lidhur me Wi-Fi ose një rrjet celular për të kopjuar të dhënat e tua.\n\n      Mund ta aktivizosh rrjetin tënd celular te \"Cilësimet\".</string>
+    <string name="network_see_all_wifi">Shiko të gjitha rrjetet Wi-Fi</string>
+    <string name="network_title">Lidhu me Wi-Fi</string>
+    <string name="network_title_auto_connect">Po lidhet me Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Lidhu me Wi-Fi më vonë</string>
+    <string name="sim_ready_message_carrier_app">Për të përfunduar aktivizimin e %1$s, do të duhet të shkarkosh aplikacionin e %2$s. Për momentin, le të përfundojmë konfigurimin e telefonit.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Për të përfunduar aktivizimin e numrit tënd, do të duhet të shkarkosh aplikacionin e %1$s. Për momentin, le të përfundojmë konfigurimin e telefonit.</string>
+    <string name="survey_email_address">Adresa e email-it</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefoni yt nuk është i lidhur me një rrjet Wi-Fi. Për të parë këto informacione tani, vizito {0} me një shfletues uebi.}TABLET{Tableti yt nuk është i lidhur me një rrjet Wi-Fi. Për të parë këto informacione tani, vizito {0} me një shfletues uebi.}other{Pajisja jote nuk është e lidhur me një rrjet Wi-Fi. Për të parë këto informacione tani, vizito {0} me një shfletues uebi.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Lidhja me një rrjet Wi-Fi ose celular ndihmon në konfigurimin e shpejtë të telefonit.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën\n      }TABLET{Lidhja me një rrjet ndihmon në konfigurimin e shpejtë të tabletit.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën\n      }other{Lidhja me një rrjet ndihmon në konfigurimin e shpejtë të pajisjes.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Lidhja me një rrjet Wi-Fi ose celular ndihmon në konfigurimin e shpejtë të telefonit.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të shkarkosh një kartë SIM\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën\n      }TABLET{Lidhja me një rrjet ndihmon në konfigurimin e shpejtë të tabletit.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të shkarkosh një kartë SIM\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën\n      }other{Lidhja me një rrjet ndihmon në konfigurimin e shpejtë të pajisjes.\n\n      Pa një lidhje, nuk mund:\n      Të identifikohesh në \"Llogarinë tënde të Google\"\n      Të restaurosh aplikacione dhe të dhëna\n      Të shkarkosh një kartë SIM\n      Të marrësh përditësime të softuerëve\n      Të konfigurosh automatikisht orën dhe datën}}</string>
+    <string name="wifi_scanning">Po kërkon për rrjete Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefoni yt do të përdorë rrjetin celular gjatë konfigurimit dhe mund të tarifohesh për këtë përdorim të dhënash. Për të shmangur tarifimet e mundshme, lidhu me Wi-Fi.}TABLET{Tableti yt do të përdorë rrjetin celular gjatë konfigurimit dhe mund të tarifohesh për këtë përdorim të dhënash. Për të shmangur tarifimet e mundshme, lidhu me Wi-Fi.}other{Pajisja jote do të përdorë rrjetin celular gjatë konfigurimit dhe mund të tarifohesh për këtë përdorim të dhënash. Për të shmangur tarifimet e mundshme, lidhu me Wi-Fi.}}</string>
+    <string name="wifi_title">Lidhu me Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nuk do të lidhet automatikisht për momentin</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">‏Wi-Fi قطع‌ شد.</string>
+    <string name="accessibility_wifi_one_bar">‏یک نوار برای Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">‏قدرت سیگنال Wi-Fi کامل است.</string>
+    <string name="accessibility_wifi_three_bars">‏سه نوار برای Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">‏دو نوار برای Wi-Fi.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{‏ایمیل، مخاطبین، رویدادهای تقویم، و موارد دیگر با این تلفن همگام‌سازی خواهد شد. برنامه، موسیقی، و بازی هم می‌توانید از Google Play بارگیری کنید.\n\n      می‌توانید بعداً با رفتن به «تنظیمات > حساب‌ها»، حساب اضافه کنید یا بردارید.}TABLET{‏ایمیل، مخاطبین، رویدادهای تقویم، و موارد دیگر با این رایانه لوحی همگام‌سازی خواهد شد. برنامه، موسیقی، و بازی هم می‌توانید از Google Play بارگیری کنید.\n\n      می‌توانید بعداً با رفتن به «تنظیمات > حساب‌ها»، حساب اضافه کنید یا بردارید.}other{‏ایمیل، مخاطبین، رویدادهای تقویم، و موارد دیگر با این دستگاه همگام‌سازی خواهد شد. برنامه، موسیقی، و بازی هم می‌توانید از Google Play بارگیری کنید.\n\n      می‌توانید بعداً با رفتن به «تنظیمات > حساب‌ها»، حساب اضافه کنید یا بردارید.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{‏تلفنتان را بازراه‌اندازی کنید و دوباره امتحان کنید یا برای راه‌اندازی، به Wi-Fi متصل شوید. اگر همچنان برای فعال کردن داده تلفن همراه مشکل داشتید، با شرکت مخابراتی‌تان تماس بگیرید.}TABLET{‏رایانه لوحی‌تان را بازراه‌اندازی کنید و دوباره امتحان کنید یا برای راه‌اندازی، به Wi-Fi متصل شوید. اگر همچنان برای فعال کردن داده تلفن همراه مشکل داشتید، با شرکت مخابراتی‌تان تماس بگیرید.}other{‏دستگاهتان را بازراه‌اندازی کنید و دوباره امتحان کنید یا برای راه‌اندازی، به Wi-Fi متصل شوید. اگر همچنان برای فعال کردن داده تلفن همراه مشکل داشتید، با شرکت مخابراتی‌تان تماس بگیرید.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">‏اتصال به Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">‏برای اتمام چند مرحله آخر راه‌اندازی به اتصال نیاز دارید.\n\n      وقتی حالت هواپیما روشن است، ارتباط Wi-Fi، شبکه تلفن همراه و بلوتوث قطع می‌شود.</string>
+    <string name="dialog_connect_to_wifi_button_label">‏اتصال به Wi-Fi</string>
+    <string name="network_connection_dialog_text">‏برای دریافت برنامه‌ها و موارد دیگر، به شبکه Wi-Fi متصل شوید یا از داده تلفن همراه استفاده کنید</string>
+    <string name="network_description_text_esim">‏برای راه‌اندازی سیم‌کارت داخلی، به Wi-Fi متصل شوید</string>
+    <string name="network_no_connection_description">‏برای کپی کردن داده‌هایتان باید به شبکه تلفن همراه یا Wi-Fi متصل باشید.\n\n      می‌توانید شبکه تلفن همراه را در «تنظیمات» فعال کنید.</string>
+    <string name="network_see_all_wifi">‏دیدن همه شبکه‌های Wi-Fi</string>
+    <string name="network_title">‏اتصال به Wi-Fi</string>
+    <string name="network_title_auto_connect">‏درحال اتصال به Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">‏اتصال به Wi-Fi در زمانی دیگر</string>
+    <string name="sim_ready_message_carrier_app">برای تکمیل فعال کردن %1$s، باید برنامه %2$s بارگیری کنید. فعلاً بیایید راه‌اندازی تلفنتان را تکمیل کنیم.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">برای تمام کردن فعال‌سازی شماره تلفنتان، باید برنامه %1$s را بارگیری کنید. فعلاً بیایید راه‌اندازی تلفنتان را تمام کنیم.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{‏تلفنتان به شبکه Wi-Fi متصل نیست. برای اینکه این اطلاعات را الآن ببینید در یک مرورگر وب به {0} بروید.}TABLET{‏رایانه لوحی‌تان به شبکه Wi-Fi متصل نیست. برای اینکه این اطلاعات را الآن ببینید در یک مرورگر وب به {0} بروید.}other{‏دستگاهتان به شبکه Wi-Fi متصل نیست. برای اینکه این اطلاعات را الآن ببینید در یک مرورگر وب به {0} بروید.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{‏با اتصال به Wi-Fi یا شبکه تلفن همراه می‌توانید تلفنتان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      زمان و تاریخ را به‌طور خودکار تنظیم کنید\n      }TABLET{‏با اتصال به شبکه می‌توانید رایانه لوحی‌تان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      زمان و تاریخ را به‌طور خودکار تنظیم کنید\n      }other{‏با اتصال به شبکه می‌توانید دستگاهتان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      ساعت و تاریخ را به‌طور خودکار تنظیم کنید}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{‏با اتصال به Wi-Fi یا شبکه تلفن همراه می‌توانید تلفنتان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      سیم‌کارت بارگیری کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      ساعت و تاریخ را به‌طور خودکار تنظیم کنید\n      }TABLET{‏با اتصال به شبکه می‌توانید رایانه لوحی‌تان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      سیم‌کارت بارگیری کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      ساعت و تاریخ را به‌طور خودکار تنظیم کنید\n      }other{‏با اتصال به شبکه می‌توانید دستگاهتان را به‌سرعت راه‌اندازی کنید.\n\n      بدون اتصال، نمی‌توانید:\n      به سیستم «حساب Google» خود وارد شوید\n      برنامه‌ها و داده‌ها را بازیابی کنید\n      سیم‌کارت بارگیری کنید\n      به‌روزرسانی نرم‌افزارها را دریافت کنید\n      ساعت و تاریخ را به‌طور خودکار تنظیم کنید}}</string>
+    <string name="wifi_scanning">‏درحال جستجوی شبکه‌های Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{‏تلفنتان درطول راه‌اندازی، از شبکه تلفن همراه استفاده خواهد کرد، و ممکن است هزینه این مصرف داده از حساب شما کسر شود. برای اجتناب از هزینه‌های احتمالی، به Wi-Fi متصل شوید.}TABLET{‏رایانه لوحی‌تان درطول راه‌اندازی، از شبکه تلفن همراه استفاده خواهد کرد، و ممکن است هزینه این مصرف داده از حساب شما کسر شود. برای اجتناب از هزینه‌های احتمالی، به Wi-Fi متصل شوید.}other{‏دستگاهتان درطول راه‌اندازی، از شبکه تلفن همراه استفاده خواهد کرد، و ممکن است هزینه این مصرف داده از حساب شما کسر شود. برای اجتناب از هزینه‌های احتمالی، به Wi-Fi متصل شوید.}}</string>
+    <string name="wifi_title">‏اتصال به Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">‏فعلاً Wi-Fi به‌طور خودکار متصل نمی‌شود</string>
+</resources>

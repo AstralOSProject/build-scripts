@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi diputuskan sambungannya.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi satu bar.</string>
+    <string name="accessibility_wifi_signal_full">Isyarat Wi-Fi penuh.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi tiga bar.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi dua bar.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{E-mel, kenalan, acara kalendar anda dan pelbagai lagi akan menyegerak ke telefon ini. Anda juga telah bersedia untuk mula memuat turun apl, muzik dan permainan daripada Google Play.\n\n      Anda boleh menambahkan dan mengalih keluar akaun kemudian dengan melawati Tetapan > Akaun.}TABLET{E-mel, kenalan, acara kalendar anda dan pelbagai lagi akan menyegerak ke tablet ini. Anda juga telah bersedia untuk mula memuat turun apl, muzik dan permainan daripada Google Play.\n\n      Anda boleh menambahkan dan mengalih keluar akaun kemudian dengan melawati Tetapan > Akaun.}other{E-mel, kenalan, acara kalendar anda dan pelbagai lagi akan menyegerak ke peranti ini. Anda juga telah bersedia untuk mula memuat turun apl, muzik dan permainan daripada Google Play.\n\n      Anda boleh menambahkan dan mengalih keluar akaun kemudian dengan melawati Tetapan > Akaun.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Mulakan semula telefon anda dan cuba lagi atau sambung kepada Wi-Fi untuk persediaan. Jika anda masih menghadapi masalah mengaktifkan data mudah alih, hubungi pembawa anda.}TABLET{Mulakan semula tablet anda dan cuba lagi atau sambung kepada Wi-Fi untuk persediaan. Jika anda masih menghadapi masalah mengaktifkan data mudah alih, hubungi pembawa anda.}other{Mulakan semula peranti anda dan cuba lagi atau sambung kepada Wi-Fi untuk persediaan. Jika anda masih menghadapi masalah mengaktifkan data mudah alih, hubungi pembawa anda.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Sambung kepada Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Anda memerlukan sambungan untuk menyelesaikan beberapa langkah persediaan akhir.\n\n      Apabila mod pesawat dihidupkan, Wi-Fi, rangkaian mudah alih dan Bluetooth diputuskan sambungan.</string>
+    <string name="dialog_connect_to_wifi_button_label">Sambung kepada Wi-Fi</string>
+    <string name="network_connection_dialog_text">Untuk mendapatkan apl dan banyak lagi, sambungkan ke rangkaian Wi-Fi atau gunakan data mudah alih</string>
+    <string name="network_description_text_esim">Untuk menyediakan eSIM anda, sambung kepada Wi-Fi</string>
+    <string name="network_no_connection_description">Anda perlu disambungkan kepada Wi-Fi atau rangkaian mudah alih untuk menyalin data anda.\n\n      Anda boleh mengaktifkan rangkaian mudah alih anda dalam Tetapan.</string>
+    <string name="network_see_all_wifi">Lihat semua rangkaian Wi-Fi</string>
+    <string name="network_title">Sambung ke Wi-Fi</string>
+    <string name="network_title_auto_connect">Menyambung kepada Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Sambung ke Wi-Fi kemudian</string>
+    <string name="sim_ready_message_carrier_app">Untuk menyelesaikan pengaktifan %1$s, anda perlu memuat turun apl %2$s. Buat masa ini, mari selesaikan persediaan telefon anda.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Untuk menyelesaikan pengaktifan nombor, anda perlu memuat turun apl %1$s. Buat masa ini, mari selesaikan persediaan telefon anda.</string>
+    <string name="survey_email_address">Alamat e-mel</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Telefon anda tidak disambungkan kepada rangkaian Wi-Fi. Untuk melihat maklumat ini sekarang, lawati {0} menggunakan penyemak imbas web.}TABLET{Tablet anda tidak disambungkan kepada rangkaian Wi-Fi. Untuk melihat maklumat ini sekarang, lawati {0} menggunakan penyemak imbas web.}other{Peranti anda tidak disambungkan kepada rangkaian Wi-Fi. Untuk melihat maklumat ini sekarang, lawati {0} menggunakan penyemak imbas web.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Penyambungan kepada Wi-Fi atau rangkaian mudah alih membantu anda menyediakan telefon dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik\n      }TABLET{Penyambungan kepada rangkaian membantu anda menyediakan tablet dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik\n      }other{Penyambungan kepada rangkaian membantu anda menyediakan peranti dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Penyambungan kepada Wi-Fi atau rangkaian mudah alih membantu anda menyediakan telefon dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Muat turun SIM\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik\n      }TABLET{Penyambungan kepada rangkaian membantu anda menyediakan tablet dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Muat turun SIM\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik\n      }other{Penyambungan kepada rangkaian membantu anda menyediakan peranti dengan cepat.\n\n      Tanpa sambungan, anda tidak dapat:\n      Log masuk ke Google Account anda\n      Pulihkan apl &amp; data\n      Muat turun SIM\n      Dapatkan kemaskinian perisian\n      Sediakan masa dan tarikh secara automatik}}</string>
+    <string name="wifi_scanning">Mencari rangkaian Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Telefon anda akan menggunakan rangkaian mudah alih semasa persediaan. Oleh itu, anda mungkin dikenakan bayaran untuk penggunaan data. Gunakan sambungan Wi-Fi untuk mengelakkan caj ini.}TABLET{Tablet anda akan menggunakan rangkaian mudah alih semasa persediaan. Oleh itu, anda mungkin dikenakan bayaran untuk penggunaan data. Gunakan sambungan Wi-Fi untuk mengelakkan caj ini.}other{Peranti anda akan menggunakan rangkaian mudah alih semasa persediaan. Oleh itu, anda mungkin dikenakan bayaran untuk penggunaan data. Gunakan sambungan Wi-Fi untuk mengelakkan caj ini.}}</string>
+    <string name="wifi_title">Sambung ke Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi tidak akan disambungkan secara automatik buat masa ini</string>
+</resources>

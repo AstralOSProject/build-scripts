@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi tidak terhubung.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi satu baris.</string>
+    <string name="accessibility_wifi_signal_full">Sinyal Wi-Fi penuh.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi tiga baris.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi dua baris.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Email, kontak, acara kalender, dan lainnya akan disinkronkan ke ponsel ini. Anda juga siap untuk mulai mendownload aplikasi, musik, dan game dari Google Play.\n\n      Anda dapat menambahkan dan menghapus akun nanti dengan membuka Setelan > Akun.}TABLET{Email, kontak, acara kalender, dan lainnya akan disinkronkan ke tablet ini. Anda juga siap untuk mulai mendownload aplikasi, musik, dan game dari Google Play.\n\n      Anda dapat menambahkan dan menghapus akun nanti dengan membuka Setelan > Akun.}other{Email, kontak, acara kalender, dan lainnya akan disinkronkan ke perangkat ini. Anda juga siap untuk mulai mendownload aplikasi, musik, dan game dari Google Play.\n\n      Anda dapat menambahkan dan menghapus akun nanti dengan membuka Setelan > Akun.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Mulai ulang ponsel dan coba lagi, atau hubungkan ke Wi-Fi untuk penyiapan. Jika Anda masih mengalami masalah saat mengaktifkan data seluler, hubungi operator.}TABLET{Mulai ulang tablet dan coba lagi, atau hubungkan ke Wi-Fi untuk penyiapan. Jika Anda masih mengalami masalah saat mengaktifkan data seluler, hubungi operator.}other{Mulai ulang perangkat dan coba lagi, atau hubungkan ke Wi-Fi untuk penyiapan. Jika Anda masih mengalami masalah saat mengaktifkan data seluler, hubungi operator.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Hubungkan ke Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Anda memerlukan koneksi internet untuk menyelesaikan beberapa langkah penyiapan terakhir.\n\n      Jika mode pesawat diaktifkan, sambungan Wi-Fi, jaringan seluler, dan Bluetooth akan diputuskan.</string>
+    <string name="dialog_connect_to_wifi_button_label">Hubungkan ke Wi-Fi</string>
+    <string name="network_connection_dialog_text">Untuk mendapatkan aplikasi dan lainnya, hubungkan ke jaringan Wi-Fi atau gunakan data seluler</string>
+    <string name="network_description_text_esim">Untuk menyiapkan eSIM, hubungkan ke Wi-Fi</string>
+    <string name="network_no_connection_description">Anda harus terhubung ke jaringan seluler atau Wi-Fi untuk menyalin data Anda.\n\n      Anda dapat mengaktifkan jaringan seluler di Setelan.</string>
+    <string name="network_see_all_wifi">Lihat semua jaringan Wi-Fi</string>
+    <string name="network_title">Hubungkan ke Wi-Fi</string>
+    <string name="network_title_auto_connect">Menghubungkan ke Wi-Fi …</string>
+    <string name="network_use_cellular_carrier">Hubungkan ke Wi-Fi nanti</string>
+    <string name="sim_ready_message_carrier_app">Untuk menyelesaikan aktivasi %1$s, Anda harus mendownload aplikasi %2$s. Untuk sekarang, selesaikan penyiapan ponsel.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Untuk menyelesaikan aktivasi nomor, Anda harus mendownload aplikasi %1$s. Untuk sekarang, selesaikan penyiapan ponsel.</string>
+    <string name="survey_email_address">Alamat email</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Ponsel Anda tidak terhubung ke jaringan Wi-Fi. Untuk melihat informasi ini sekarang, buka {0} dengan browser web.}TABLET{Tablet Anda tidak terhubung ke jaringan Wi-Fi. Untuk melihat informasi ini sekarang, buka {0} dengan browser web.}other{Perangkat Anda tidak terhubung ke jaringan Wi-Fi. Untuk melihat informasi ini sekarang, buka {0} dengan browser web.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Dengan terhubung ke Wi-Fi atau jaringan seluler, Anda dapat dengan cepat menyiapkan ponsel Anda.\n\n      Tanpa koneksi internet, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis\n      }TABLET{Dengan terhubung ke jaringan, Anda dapat dengan cepat menyiapkan tablet Anda.\n\n      Tanpa koneksi jaringan, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis\n      }other{Dengan terhubung ke jaringan, Anda dapat dengan cepat menyiapkan perangkat Anda.\n\n      Tanpa koneksi jaringan, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Dengan terhubung ke Wi-Fi atau jaringan seluler, Anda dapat dengan cepat menyiapkan ponsel Anda.\n\n      Tanpa koneksi internet, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendownload SIM\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis\n      }TABLET{Dengan terhubung ke jaringan, Anda dapat dengan cepat menyiapkan tablet Anda.\n\n      Tanpa koneksi jaringan, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendownload SIM\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis\n      }other{Dengan terhubung ke jaringan, Anda dapat dengan cepat menyiapkan perangkat Anda.\n\n      Tanpa koneksi jaringan, Anda tidak dapat:\n      Login ke Akun Google Anda\n      Memulihkan aplikasi &amp; data\n      Mendownload SIM\n      Mendapatkan update software\n      Menyiapkan waktu dan tanggal secara otomatis}}</string>
+    <string name="wifi_scanning">Mencari jaringan Wi-Fi...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Ponsel akan menggunakan jaringan seluler selama penyiapan, dan Anda dapat dikenai biaya atas penggunaan data ini. Untuk menghindari kemungkinan dikenai biaya, hubungkan ke Wi-Fi.}TABLET{Tablet akan menggunakan jaringan seluler selama penyiapan, dan Anda dapat dikenai biaya atas penggunaan data ini. Untuk menghindari kemungkinan dikenai biaya, hubungkan ke Wi-Fi.}other{Perangkat akan menggunakan jaringan seluler selama penyiapan, dan Anda dapat dikenai biaya atas penggunaan data ini. Untuk menghindari kemungkinan dikenai biaya, hubungkan ke Wi-Fi.}}</string>
+    <string name="wifi_title">Hubungkan ke Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi tidak akan terhubung otomatis untuk saat ini</string>
+</resources>

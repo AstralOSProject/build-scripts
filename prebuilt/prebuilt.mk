@@ -1,6 +1,7 @@
 # AstralOS prebuilt apps
 PRODUCT_PACKAGES += \
-    AstralAI
+    AstralAI \
+    AstralGmsSetupWizardOverlay
 
 # MindTheGapps (prebuilt Google apps, baked into the images)
 #

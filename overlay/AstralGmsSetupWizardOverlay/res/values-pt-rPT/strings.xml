@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Wi-Fi desligado.</string>
+    <string name="accessibility_wifi_one_bar">Uma barra de Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi completo.</string>
+    <string name="accessibility_wifi_three_bars">Três barras de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Duas barras de Wi-Fi.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{O email, os contactos, os eventos do calendário e outros conteúdos serão sincronizados com este telemóvel. Também pode começar a transferir apps, música e jogos a partir do Google Play.\n\n      Pode adicionar e remover contas mais tarde ao aceder a Definições > Contas.}TABLET{O email, os contactos, os eventos do calendário e outros conteúdos serão sincronizados com este tablet. Também pode começar a transferir apps, música e jogos a partir do Google Play.\n\n      Pode adicionar e remover contas mais tarde ao aceder a Definições > Contas.}other{O email, os contactos, os eventos do calendário e outros conteúdos serão sincronizados com este dispositivo. Também pode começar a transferir apps, música e jogos a partir do Google Play.\n\n      Pode adicionar e remover contas mais tarde ao aceder a Definições > Contas.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Reinicie o telemóvel e tente novamente ou ligue-se ao Wi-Fi para configurar. Se continuar com problemas ao ativar os dados móveis, contacte o seu operador.}TABLET{Reinicie o tablet e tente novamente ou ligue-se ao Wi-Fi para configurar. Se continuar com problemas ao ativar os dados móveis, contacte o seu operador.}other{Reinicie o dispositivo e tente novamente ou ligue-se ao Wi-Fi para configurar. Se continuar com problemas ao ativar os dados móveis, contacte o seu operador.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Ligar à rede Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">É necessária uma ligação para concluir os últimos passos de configuração.\n\n      Quando o modo de avião está ativado, o Wi-Fi, as redes móveis e o Bluetooth estão desligados.</string>
+    <string name="dialog_connect_to_wifi_button_label">Ligar à rede Wi-Fi</string>
+    <string name="network_connection_dialog_text">Para obter apps e muito mais, estabeleça ligação a uma rede Wi-Fi ou utilize os dados móveis</string>
+    <string name="network_description_text_esim">Para configurar o eSIM, ligue-se ao Wi-Fi</string>
+    <string name="network_no_connection_description">Precisa de estabelecer ligação a uma rede Wi-Fi ou rede móvel para copiar os seus dados.\n\n      Pode ativar a sua rede móvel nas Definições.</string>
+    <string name="network_see_all_wifi">Ver todas as redes Wi-Fi</string>
+    <string name="network_title">Ligue-se à rede Wi-Fi</string>
+    <string name="network_title_auto_connect">A ligar à rede Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Ligar à rede Wi-Fi mais tarde</string>
+    <string name="sim_ready_message_carrier_app">Para concluir a ativação do número %1$s, tem de transferir a aplicação do operador %2$s. Por agora, vamos concluir a configuração do telemóvel.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Para concluir a ativação do seu número, tem de transferir a aplicação do operador %1$s. Por agora, vamos concluir a configuração do telemóvel</string>
+    <string name="survey_email_address">Endereço de email</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{O telemóvel não está ligado a uma rede Wi-Fi. Para ver estas informações agora, aceda a {0} através de um navegador de Internet.}TABLET{O tablet não está ligado a uma rede Wi-Fi. Para ver estas informações agora, aceda a {0} através de um navegador de Internet.}other{O dispositivo não está ligado a uma rede Wi-Fi. Para ver estas informações agora, aceda a {0} através de um navegador de Internet.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Ligar-se a uma rede móvel ou Wi-Fi ajuda a configurar rapidamente o telemóvel.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data\n      }TABLET{Ligar-se a uma rede ajuda a configurar rapidamente o tablet.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data\n      }other{Ligar-se a uma rede ajuda a configurar rapidamente o dispositivo.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Ligar-se a uma rede móvel ou Wi-Fi ajuda a configurar rapidamente o telemóvel.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Transferir um SIM\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data\n      }TABLET{Ligar-se a uma rede ajuda a configurar rapidamente o tablet.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Transferir um SIM\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data\n      }other{Ligar-se a uma rede ajuda a configurar rapidamente o dispositivo.\n\n      Sem uma ligação, não pode:\n      Iniciar sessão na sua Conta Google\n      Restaurar apps e dados\n      Transferir um SIM\n      Receber atualizações de software\n      Configurar automaticamente a hora e a data}}</string>
+    <string name="wifi_scanning">A pesquisar redes Wi-Fi...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{O telemóvel utilizará a rede móvel durante a configuração e esta utilização de dados poderá ser-lhe cobrada. Para evitar cobranças, ligue-se a uma rede Wi-Fi.}TABLET{O tablet utilizará a rede móvel durante a configuração e esta utilização de dados poderá ser-lhe cobrada. Para evitar cobranças, ligue-se a uma rede Wi-Fi.}other{O dispositivo utilizará a rede móvel durante a configuração e esta utilização de dados poderá ser-lhe cobrada. Para evitar cobranças, ligue-se a uma rede Wi-Fi.}}</string>
+    <string name="wifi_title">Ligue-se à rede Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Por agora, o Wi-Fi não irá estabelecer ligação automaticamente</string>
+</resources>

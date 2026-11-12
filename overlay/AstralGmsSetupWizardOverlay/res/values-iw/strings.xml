@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">‏Wi-Fi מנותק.</string>
+    <string name="accessibility_wifi_one_bar">‏פס אחד של Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">‏אות Wi-Fi מלא.</string>
+    <string name="accessibility_wifi_three_bars">‏שלושה פסים של Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">‏שני פסים של Wi-Fi.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{‏האימייל, אנשי הקשר, האירועים ביומן ופריטים נוספים יסתנכרנו עם הטלפון הזה. בנוסף, ניתן להתחיל בהורדת אפליקציות, מוזיקה ומשחקים מ-Google Play.\n\n      אפשר להוסיף חשבונות ולהסיר אותם בשלב מאוחר יותר בקטע \'הגדרות\' > \'חשבונות\'.}TABLET{‏האימייל, אנשי הקשר, האירועים ביומן ופריטים נוספים יסתנכרנו עם הטאבלט הזה. בנוסף, ניתן להתחיל בהורדת אפליקציות, מוזיקה ומשחקים מ-Google Play.\n\n      אפשר להוסיף חשבונות ולהסיר אותם בשלב מאוחר יותר בקטע \'הגדרות\' > \'חשבונות\'.}other{‏האימייל, אנשי הקשר, האירועים ביומן ופריטים נוספים יסתנכרנו עם המכשיר הזה. בנוסף, ניתן להתחיל בהורדת אפליקציות, מוזיקה ומשחקים מ-Google Play.\n\n      אפשר להוסיף חשבונות ולהסיר אותם בשלב מאוחר יותר בקטע \'הגדרות\' > \'חשבונות\'.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{‏צריך להפעיל מחדש את הטלפון ולנסות שוב, או להתחבר לרשת Wi-Fi לצורך ההגדרה. אם עדיין יש בעיות בהפעלת חבילת הגלישה, צריך לפנות לספק.}TABLET{‏צריך להפעיל מחדש את הטאבלט ולנסות שוב, או להתחבר לרשת Wi-Fi לצורך ההגדרה. אם עדיין יש בעיות בהפעלת חבילת הגלישה, צריך לפנות לספק.}other{‏צריך להפעיל מחדש את המכשיר ולנסות שוב, או להתחבר לרשת Wi-Fi לצורך ההגדרה. אם עדיין יש בעיות בהפעלת חבילת הגלישה, צריך לפנות לספק.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">‏חיבור ל-Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">‏השלבים האחרונים של ההגדרה דורשים חיבור לאינטרנט.\n\n      כשמצב הטיסה מופעל, לא ניתן להתחבר ל-Wi-Fi, לרשתות סלולריות ול-Bluetooth.</string>
+    <string name="dialog_connect_to_wifi_button_label">‏התחברות ל-Wi-Fi</string>
+    <string name="network_connection_dialog_text">‏כדי להוריד או לשחזר אפליקציות ועוד, יש להתחבר לרשת Wi-Fi או להשתמש בחבילת הגלישה</string>
+    <string name="network_description_text_esim">‏צריך חיבור Wi-Fi כדי להגדיר את ה-eSIM</string>
+    <string name="network_no_connection_description">‏עליך להיות מחובר לרשת Wi-Fi או לרשת סלולרית כדי להעתיק את הנתונים.\n\n      אפשר להפעיל את הרשת הסלולרית בהגדרות.</string>
+    <string name="network_see_all_wifi">‏כל רשתות ה-Wi-Fi</string>
+    <string name="network_title">‏חיבור ל-Wi-Fi</string>
+    <string name="network_title_auto_connect">‏המכשיר מתחבר ל-Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">‏יש להתחבר אל Wi-Fi מאוחר יותר</string>
+    <string name="sim_ready_message_carrier_app">כדי להשלים את ההפעלה של %1$s יהיה עליך להוריד את האפליקציה של %2$s. בינתיים נסיים את הגדרת הטלפון.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">כדי להשלים את ההפעלה של המספר שלך, צריך להוריד את האפליקציה של %1$s. בינתיים, נסיים את הגדרת הטלפון.</string>
+    <string name="survey_email_address">כתובת אימייל</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{‏הטלפון לא מחובר לרשת Wi-Fi. יש להיכנס בדפדפן לכתובת {0} כדי להציג את המידע הזה עכשיו.}TABLET{‏הטאבלט לא מחובר לרשת Wi-Fi. יש להיכנס בדפדפן לכתובת {0} כדי להציג את המידע הזה עכשיו.}other{‏המכשיר לא מחובר לרשת Wi-Fi. יש להיכנס בדפדפן לכתובת {0} כדי להציג את המידע הזה עכשיו.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{‏כשמתחברים ל-Wi-Fi או לרשת הסלולרית, אפשר להגדיר במהירות את הטלפון.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך\n      }TABLET{‏כשמתחברים לרשת אפשר להגדיר במהירות את הטאבלט.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך\n      }other{‏כשמתחברים לרשת אפשר להגדיר במהירות את המכשיר.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{‏כשמתחברים ל-Wi-Fi או לרשת הסלולרית, אפשר להגדיר במהירות את הטלפון.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד כרטיס SIM\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך\n      }TABLET{‏כשמתחברים לרשת אפשר להגדיר במהירות את הטאבלט.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד כרטיס SIM\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך\n      }other{‏כשמתחברים לרשת אפשר להגדיר במהירות את המכשיר.\n\n      בלי חיבור, אי אפשר:\n      להיכנס לחשבון Google\n      לשחזר אפליקציות ונתונים\n      להוריד כרטיס SIM\n      להוריד עדכוני תוכנה\n      להגדיר באופן אוטומטי שעה ותאריך}}</string>
+    <string name="wifi_scanning">‏מחפש רשתות Wi-Fi…</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{‏במהלך ההגדרה של הטלפון ייעשה שימוש ברשת הסלולרית, וייתכן שיתבצע חיוב בגין שימוש בחבילת הגלישה. כדי להימנע מחיובים אפשריים, כדאי להתחבר לרשת Wi-Fi.}TABLET{‏במהלך ההגדרה של הטאבלט ייעשה שימוש ברשת הסלולרית, וייתכן שיתבצע חיוב בגין שימוש בחבילת הגלישה. כדי להימנע מחיובים אפשריים, כדאי להתחבר לרשת Wi-Fi.}other{‏במהלך ההגדרה של המכשיר ייעשה שימוש ברשת הסלולרית, וייתכן שיתבצע חיוב בגין שימוש בחבילת הגלישה. כדי להימנע מחיובים אפשריים, כדאי להתחבר לרשת Wi-Fi.}}</string>
+    <string name="wifi_title">‏חיבור ל-Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">‏ה-Wi-Fi לא יתחבר באופן אוטומטי בינתיים</string>
+</resources>

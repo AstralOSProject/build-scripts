@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_no_wifi">Đã ngắt kết nối Wi-Fi.</string>
+    <string name="accessibility_wifi_one_bar">Tín hiệu Wi-Fi một vạch.</string>
+    <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đầy đủ.</string>
+    <string name="accessibility_wifi_three_bars">Tín hiệu Wi-Fi ba vạch.</string>
+    <string name="accessibility_wifi_two_bars">Tín hiệu Wi-Fi hai vạch.</string>
+    <string name="account_exists_info">{DEVICE_TYPE,select, PHONE{Email, danh bạ, sự kiện trên lịch và dữ liệu khác của bạn sẽ đồng bộ hóa với điện thoại này. Bạn cũng có thể bắt đầu tải các ứng dụng, nhạc và trò chơi xuống từ Google Play.\n\n      Bạn có thể thêm và xóa tài khoản vào lúc khác bằng cách chuyển đến phần Cài đặt > Tài khoản.}TABLET{Email, danh bạ, sự kiện trên lịch và dữ liệu khác của bạn sẽ đồng bộ hóa với máy tính bảng này. Bạn cũng có thể bắt đầu tải các ứng dụng, nhạc và trò chơi xuống từ Google Play.\n\n      Bạn có thể thêm và xóa tài khoản vào lúc khác bằng cách chuyển đến phần Cài đặt > Tài khoản.}other{Email, danh bạ, sự kiện trên lịch và dữ liệu khác của bạn sẽ đồng bộ hóa với thiết bị này. Bạn cũng có thể bắt đầu tải các ứng dụng, nhạc và trò chơi xuống từ Google Play.\n\n      Bạn có thể thêm và xóa tài khoản vào lúc khác bằng cách chuyển đến phần Cài đặt > Tài khoản.}}</string>
+    <string name="activation_unprovisioned_sim_message">{DEVICE_TYPE,select, PHONE{Khởi động lại điện thoại rồi thử lại hoặc kết nối Wi-Fi để thiết lập. Nếu bạn vẫn gặp sự cố khi kích hoạt dữ liệu di động, hãy liên hệ với nhà mạng.}TABLET{Khởi động lại máy tính bảng rồi thử lại hoặc kết nối Wi-Fi để thiết lập. Nếu bạn vẫn gặp sự cố khi kích hoạt dữ liệu di động, hãy liên hệ với nhà mạng.}other{Khởi động lại thiết bị rồi thử lại hoặc kết nối Wi-Fi để thiết lập. Nếu bạn vẫn gặp sự cố khi kích hoạt dữ liệu di động, hãy liên hệ với nhà mạng.}}</string>
+    <string name="connect_to_a_network_btn_wifi_text">Kết nối Wi-Fi</string>
+    <string name="deferred_welcome_airplane_mode_message">Bạn cần có kết nối để hoàn tất vài bước thiết lập cuối.\n\n      Khi chế độ trên máy bay bật, Wi-Fi, các mạng di động và Bluetooth sẽ bị ngắt kết nối.</string>
+    <string name="dialog_connect_to_wifi_button_label">Kết nối Wi-Fi</string>
+    <string name="network_connection_dialog_text">Để tải các ứng dụng và những mục khác, hãy kết nối với một mạng Wi-Fi hoặc dùng dữ liệu di động</string>
+    <string name="network_description_text_esim">Để thiết lập eSIM, hãy kết nối với Wi-Fi</string>
+    <string name="network_no_connection_description">Bạn cần kết nối với mạng Wi-Fi hoặc mạng di động để sao chép dữ liệu của mình.\n\n      Bạn có thể kích hoạt mạng di động của mình trong phần Cài đặt.</string>
+    <string name="network_see_all_wifi">Xem tất cả các mạng Wi-Fi</string>
+    <string name="network_title">Kết nối với Wi-Fi</string>
+    <string name="network_title_auto_connect">Đang kết nối Wi-Fi…</string>
+    <string name="network_use_cellular_carrier">Kết nối với Wi-Fi sau</string>
+    <string name="sim_ready_message_carrier_app">Để hoàn thành việc kích hoạt %1$s, bạn sẽ cần phải tải ứng dụng %2$s xuống. Còn bây giờ, hãy hoàn tất quá trình thiết lập điện thoại của bạn.</string>
+    <string name="sim_ready_message_invalid_phone_number_carrier_app">Để hoàn tất việc kích hoạt số điện thoại của mình, bạn sẽ cần phải tải ứng dụng %1$s xuống. Còn bây giờ, hãy hoàn tất quá trình thiết lập điện thoại của bạn.</string>
+    <string name="survey_email_address">Địa chỉ email</string>
+    <string name="url_load_unsuccessful_message_wifi_only">{DEVICE_TYPE,select, PHONE{Điện thoại của bạn chưa kết nối với mạng Wi-Fi. Để xem thông tin này ngay bây giờ, hãy truy cập vào {0} bằng một trình duyệt web.}TABLET{Máy tính bảng của bạn chưa kết nối với mạng Wi-Fi. Để xem thông tin này ngay bây giờ, hãy truy cập vào {0} bằng một trình duyệt web.}other{Thiết bị của bạn chưa kết nối với mạng Wi-Fi. Để xem thông tin này ngay bây giờ, hãy truy cập vào {0} bằng một trình duyệt web.}}</string>
+    <string name="wifi_and_mobile_skip_message">{DEVICE_TYPE,select, PHONE{Việc kết nối với mạng di động hoặc Wi-Fi giúp bạn nhanh chóng thiết lập điện thoại của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ\n      }TABLET{Việc kết nối với mạng giúp bạn nhanh chóng thiết lập máy tính bảng của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ\n      }other{Việc kết nối với mạng giúp bạn nhanh chóng thiết lập thiết bị của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải các bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ}}</string>
+    <string name="wifi_and_mobile_skip_message_esim">{DEVICE_TYPE,select, PHONE{Việc kết nối với mạng di động hoặc Wi-Fi giúp bạn nhanh chóng thiết lập điện thoại của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải một SIM xuống\n      Tải bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ\n      }TABLET{Việc kết nối với mạng giúp bạn nhanh chóng thiết lập máy tính bảng của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải một SIM xuống\n      Tải các bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ\n      }other{Việc kết nối với mạng giúp bạn nhanh chóng thiết lập thiết bị của mình.\n\n      Nếu không có kết nối mạng, bạn sẽ không thể:\n      Đăng nhập vào Tài khoản Google\n      Khôi phục các ứng dụng và dữ liệu\n      Tải một SIM xuống\n      Tải các bản cập nhật phần mềm\n      Tự động thiết lập ngày và giờ}}</string>
+    <string name="wifi_scanning">Đang tìm kiếm mạng Wi-Fi...</string>
+    <string name="wifi_skipped_message">{DEVICE_TYPE,select, PHONE{Điện thoại sẽ sử dụng mạng di động trong quá trình thiết lập và bạn có thể bị tính phí sử dụng dữ liệu. Để tránh các khoản phí có thể phát sinh, hãy kết nối với Wi-Fi.}TABLET{Máy tính bảng sẽ sử dụng mạng di động trong quá trình thiết lập và bạn có thể bị tính phí sử dụng dữ liệu. Để tránh các khoản phí có thể phát sinh, hãy kết nối với Wi-Fi.}other{Thiết bị sẽ sử dụng mạng di động trong quá trình thiết lập và bạn có thể bị tính phí sử dụng dữ liệu. Để tránh các khoản phí có thể phát sinh, hãy kết nối với Wi-Fi.}}</string>
+    <string name="wifi_title">Kết nối với Wi-Fi</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Tạm thời, Wi-Fi sẽ không tự động kết nối</string>
+</resources>
